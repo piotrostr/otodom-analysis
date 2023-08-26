@@ -1,0 +1,108 @@
+{
+	"id": 64546316,
+	"title": "Gaja Park Apartament A.19",
+	"slug": "gaja-park-apartament-a-19-ID4mPrC",
+	"estate": "FLAT",
+	"developmentId": 63230924,
+	"developmentTitle": "Gaja Park Apartamenty",
+	"developmentUrl": "https:\/\/www.otodom.pl\/pl\/oferta\/gaja-park-apartamenty-ID4hjfC.html",
+	"transaction": "SELL",
+	"location": {
+		"mapDetails": {
+			"radius": 0,
+			"__typename": "MapDetails"
+		},
+		"address": {
+			"street": {
+				"name": "ul. Pomorska",
+				"number": "",
+				"__typename": "Street"
+			},
+			"city": {
+				"name": "Gda\u0144sk",
+				"__typename": "City"
+			},
+			"province": {
+				"name": "pomorskie",
+				"__typename": "Province"
+			},
+			"__typename": "Address"
+		},
+		"reverseGeocoding": {
+			"locations": [
+				{
+					"fullName": "pomorskie",
+					"__typename": "BasicLocationObject"
+				},
+				{
+					"fullName": "Gda\u0144sk, pomorskie",
+					"__typename": "BasicLocationObject"
+				},
+				{
+					"fullName": "Jelitkowo, Gda\u0144sk, pomorskie",
+					"__typename": "BasicLocationObject"
+				}
+			],
+			"__typename": "ReverseGeocoding"
+		},
+		"__typename": "LocationDetails"
+	},
+	"locationLabel": {
+		"locale": "uk",
+		"value": "Gda\u0144sk, Jelitkowo, ul. Pomorska",
+		"__typename": "LocalizedString"
+	},
+	"images": [
+		{
+			"medium": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImQ1N2IxaWdnOTM4cDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Qft87R_HHzDs9bKvp8hdhaw2GsA3squYk6V-bk5gESI\/image;s=655x491;q=80",
+			"large": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImQ1N2IxaWdnOTM4cDEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.Qft87R_HHzDs9bKvp8hdhaw2GsA3squYk6V-bk5gESI\/image;s=1280x1024;q=80",
+			"__typename": "AdImage"
+		},
+		{
+			"medium": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjYwZ3N1c2c0dW4zcS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.G_yseAHjCJejtHyOe_w_72-nIGMwPQ03Tg-RYm0AxO4\/image;s=655x491;q=80",
+			"large": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjYwZ3N1c2c0dW4zcS1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.G_yseAHjCJejtHyOe_w_72-nIGMwPQ03Tg-RYm0AxO4\/image;s=1280x1024;q=80",
+			"__typename": "AdImage"
+		}
+	],
+	"isExclusiveOffer": false,
+	"isPrivateOwner": false,
+	"isPromoted": false,
+	"agency": {
+		"id": 8653256,
+		"name": "Pomorska 68 Sp. z o.o.",
+		"slug": "pomorska-68-sp-z-o-o-ID8653256",
+		"imageUrl": null,
+		"type": "DEVELOPER",
+		"brandingVisible": false,
+		"highlightedAds": false,
+		"__typename": "AgencyListingDetails"
+	},
+	"openDays": "",
+	"totalPrice": null,
+	"rentPrice": null,
+	"priceFromPerSquareMeter": null,
+	"pricePerSquareMeter": null,
+	"areaInSquareMeters": 66.7,
+	"terrainAreaInSquareMeters": null,
+	"roomsNumber": "THREE",
+	"hidePrice": true,
+	"investmentState": null,
+	"investmentUnitsAreaInSquareMeters": null,
+	"peoplePerRoom": null,
+	"dateCreated": "2023-08-25 15:55:08",
+	"dateCreatedFirst": "2023-08-25 15:55:02",
+	"investmentUnitsNumber": null,
+	"investmentUnitsRoomsNumber": null,
+	"investmentEstimatedDelivery": null,
+	"pushedUpAt": null,
+	"seo": {
+		"details": {
+			"description": "\u015awietne 3 pokojowe mieszkanie na sprzeda\u017c w miejscowo\u015bci Gda\u0144sk, Jelitkowo, za cen\u0119 Zapytaj o cen\u0119. To mieszkanie na sprzeda\u017c  na 1 pi\u0119trze ma 66,70 m\u00b2 powierzchni u\u017cytkowej i 66,70 m\u00b2 powierzchni ca\u0142kowitej. Biuro nieruchomo\u015bci Pomorska 68 Sp. z o.o. jako najwa\u017cniejsze zalety mieszkania wymienia: klimatyzacja, balkon, gara\u017c\/miejsce parkingowe. Otodom 64546316",
+			"__typename": "SeoDetails"
+		},
+		"__typename": "Seo"
+	},
+	"specialOffer": null,
+	"__typename": "AdvertListItem",
+	"totalPossibleImages": 15
+}
