@@ -1,0 +1,86 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": { "lat": 54.3565908, "lng": 18.6443322 },
+        "viewport": {
+          "northeast": { "lat": 54.35794062989272, "lng": 18.64568202989273 },
+          "southwest": { "lat": 54.35524097010727, "lng": 18.64298237010728 }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Gdańsk Główny",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105244443905103856003\">Aga Żychlińska</a>"
+          ],
+          "photo_reference": "AUacShhVddaItcNtGP9n6PFQ25Zd8EZZDi4wQ_aOmoICxxSr8H1xjgp3lrLw0_Gfd9_Roh5obGEdlX_7MEOjlnj-BsuSu_xP9cTZJtUgp2uMCwsWXReTLZqROjYuqYSflfEUg9pM9bf9NZ1OzH00rgs8KVJXvbB7i4EzdRkRancMnyCOTqCM",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJbwJpAndz_UYRSsEa7dkfYwI",
+      "plus_code": {
+        "compound_code": "9J4V+JP Gdańsk",
+        "global_code": "9F6W9J4V+JP"
+      },
+      "rating": 3.8,
+      "reference": "ChIJbwJpAndz_UYRSsEa7dkfYwI",
+      "scope": "GOOGLE",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 701,
+      "vicinity": "Gdańsk"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": { "lat": 54.3461015, "lng": 18.6445955 },
+        "viewport": {
+          "northeast": { "lat": 54.34746112989271, "lng": 18.64611077989272 },
+          "southwest": { "lat": 54.34476147010727, "lng": 18.64341112010728 }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Gdańsk Śródmieście",
+      "photos": [
+        {
+          "height": 3468,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111175188091135349822\">Paweł Nodzak</a>"
+          ],
+          "photo_reference": "AUacShiZ0R8TKKDUSgu-ynQ5-FxHVXP2Lkwu686RRMhqBC9RhGx4a6OAeutpAa0AiCkKMmtZnjlZXjnL2w6rgJ86TzBc9yoknSGcpLSnz8zfrVtaNbolE4k2Ewo-Y-FKVkdy_bBTkBbx5pRSdYoVssccHiygIVI8JVf6-EiTUQbnRPoONG-f",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJjcDqO5lz_UYR7Cj_ode07PE",
+      "plus_code": {
+        "compound_code": "8JWV+CR Gdańsk",
+        "global_code": "9F6W8JWV+CR"
+      },
+      "rating": 4.2,
+      "reference": "ChIJjcDqO5lz_UYR7Cj_ode07PE",
+      "scope": "GOOGLE",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 67,
+      "vicinity": "Gdańsk"
+    }
+  ],
+  "status": "OK"
+}
