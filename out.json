@@ -1,1 +1,967 @@
-{"html_attributions": [], "next_page_token": "AUacShg1uVumayKTwpFQ7t6BO0MyUyyPCmGG0PswMiKIBxbfAH1E5X5NP1cqR6Aae7fynGzzwOXTdAULQBBIQV5PhVl1MDwmeVvB7bnMGb9BPQrbIRB4XW8joiDDemoe9hQ-S8eXWmxz5DSmlTWXbxNlOYhGA_JlLlEUS12KIRnQXQGZ_cEsdJnIYWXC-dVF9MjwuyGllC0IpuJRxERFJIjYEzxCB-o8RgDzEpL3vYfUzUxoEFXZqJ11hi9TB0Iw2c4w2HcUlSmjkeleXkMdCg6P6uiK1QaMfTdfUBSRhAFZldjAIgFE5gwCM_D7bnBjB1SQEIhtQkOk93nP9v0xwh3_m_iLnaGnO7tp_MxUURwnoncy-R5IV8_svGjt2Kw8GjlV6ck1RI80y8B0rZ3iA8B1nbNYuNDTO3JaD0uWHZW5-PJOIBR_kfPH8BJhlhebcOgiz3YdBUkQ39tloA", "results": [{"business_status": "OPERATIONAL", "formatted_address": "Malborska, 80-309 Gda\u0144sk", "geometry": {"location": {"lat": 54.40079369999999, "lng": 18.5765929}, "viewport": {"northeast": {"lat": 54.40214352989271, "lng": 18.57794272989273}, "southwest": {"lat": 54.39944387010727, "lng": 18.57524307010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Przymorze-Uniwer.", "photos": [{"height": 4032, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/111119371615163888963\">A Google User</a>"], "photo_reference": "AUacShg5WQG3uj9-JDII5qohSp2djMbrd2MwzqPX2d72mBFmwLkF5F7Zn_hWjy69ZG7dHXFJxAWIIHfxQD8PIVV79msTezuTJW0fG5RpdNEx89y7CgvfHPizJFLPay1csSX0DTDlmhvBbF4DYc6YhfPPk_2SltnUBtlb6fNSt-T64SjvAGqv", "width": 3024}], "place_id": "ChIJ9YGWHSl1_UYRghqwL1MVXCk", "plus_code": {"compound_code": "CH2G+8J Gda\u0144sk", "global_code": "9F6WCH2G+8J"}, "rating": 3.5, "reference": "ChIJ9YGWHSl1_UYRghqwL1MVXCk", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 78}, {"business_status": "OPERATIONAL", "formatted_address": "80-001, Jana z Kolna 11, Gda\u0144sk", "geometry": {"location": {"lat": 54.36471539999999, "lng": 18.6416852}, "viewport": {"northeast": {"lat": 54.36616757989272, "lng": 18.64326932989272}, "southwest": {"lat": 54.36346792010728, "lng": 18.64056967010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Stocznia", "photos": [{"height": 3024, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/114244761853841460697\">kejtunia79</a>"], "photo_reference": "AUacShhXlhTk55xBRIqbTxjQzTw3tcR-G2XRt9GC-q_uJSQYx1VuLEbMKUyw_4YzKwi7sEIWY8jWpoHIMkH-Q3Ys4PJ0tc9uuq0asilphEizMHxA-uEEj0NP5JzdWQfUBNbQTf10JceBppGS35S2ytbFDo08E6yN6SJg8dnvmrfIwzaUa0cz", "width": 4032}], "place_id": "ChIJZSuf0WRz_UYReFZvQWnIjzg", "plus_code": {"compound_code": "9J7R+VM Gda\u0144sk", "global_code": "9F6W9J7R+VM"}, "rating": 3.8, "reference": "ChIJZSuf0WRz_UYReFZvQWnIjzg", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 106}, {"business_status": "OPERATIONAL", "formatted_address": "Trubadur\u00f3w, Gda\u0144sk", "geometry": {"location": {"lat": 54.3743874, "lng": 18.6268433}, "viewport": {"northeast": {"lat": 54.37562987989273, "lng": 18.62824322989272}, "southwest": {"lat": 54.37293022010728, "lng": 18.62554357010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Politechnika", "photos": [{"height": 3120, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/108124592231433250659\">A Google User</a>"], "photo_reference": "AUacShjY_GtMsec6Oek96aKrWifH8Hm6EAdSanAZXK5uYGf_JHAOt233oRySDOp1aKHGMLcOIp8EEMs550tgqbE2CPvVHQ-x3O9_noFUiRd56kVXZIvxJp2GkcJL6FTATPTTCMMJa4rE__5WZrC8K3iScjlipOPTP6i6W4UuAy45fQdScslY", "width": 4160}], "place_id": "ChIJ3XDTt550_UYRqcvB8c15-Zk", "plus_code": {"compound_code": "9JFG+QP Gda\u0144sk", "global_code": "9F6W9JFG+QP"}, "rating": 3.8, "reference": "ChIJ3XDTt550_UYRqcvB8c15-Zk", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 89}, {"business_status": "OPERATIONAL", "formatted_address": "80-819 Gda\u0144sk", "geometry": {"location": {"lat": 54.3461015, "lng": 18.6445955}, "viewport": {"northeast": {"lat": 54.34746112989271, "lng": 18.64611077989272}, "southwest": {"lat": 54.34476147010727, "lng": 18.64341112010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk \u015ar\u00f3dmie\u015bcie", "photos": [{"height": 3468, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/111175188091135349822\">Pawe\u0142 Nodzak</a>"], "photo_reference": "AUacShiA8LDwmvtR5jzgDvXg1VmPyNZpaXT5bKtLYacDSm_B1SsakuHV2po4eQhRa6Q3FwwbkN0G65wgNBkXqUqUJKqdQLGMEJlAAV7hj4Jsd-wkAif_wWijX3zzw70DrzpTR7MQ6ekkCy-Bb8-cINm49H9aRqnmD-1bBysT_JVxw-cBbpF2", "width": 4624}], "place_id": "ChIJjcDqO5lz_UYR7Cj_ode07PE", "plus_code": {"compound_code": "8JWV+CR Gda\u0144sk", "global_code": "9F6W8JWV+CR"}, "rating": 4.2, "reference": "ChIJjcDqO5lz_UYR7Cj_ode07PE", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 67}, {"business_status": "OPERATIONAL", "formatted_address": "Braci Lewoniewskich, 80-465 Gda\u0144sk", "geometry": {"location": {"lat": 54.3899056, "lng": 18.591316}, "viewport": {"northeast": {"lat": 54.39085747989272, "lng": 18.59333627989272}, "southwest": {"lat": 54.38815782010728, "lng": 18.59063662010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Zaspa", "photos": [{"height": 2268, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/108381417404503808277\">Mariusz B</a>"], "photo_reference": "AUacShiBZEIN5JyYmzzWdG8IsaQ5TsE-MezxtrFTLQkdHZi_c-ABrg11r3kqDdwKK_0HEUX82Sa4YmprAVNU_fGdkdyOKDAR0DcWBKkwEjsuqBpcu8WXj-ZppSjGgUqJnVMlE7IvvoLSKQz2wJ8BOVgfb5V8CodR3ZhIZvZjpUIiVNk6B11I", "width": 4032}], "place_id": "ChIJ4dYKV9t0_UYR_1v0_lniR9A", "plus_code": {"compound_code": "9HQR+XG Gda\u0144sk", "global_code": "9F6W9HQR+XG"}, "rating": 3.2, "reference": "ChIJ4dYKV9t0_UYR_1v0_lniR9A", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 65}, {"business_status": "OPERATIONAL", "formatted_address": "Dworcowa 7, 81-704 Sopot", "geometry": {"location": {"lat": 54.43996, "lng": 18.56236}, "viewport": {"northeast": {"lat": 54.44129372989272, "lng": 18.56344787989272}, "southwest": {"lat": 54.43859407010728, "lng": 18.56074822010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Sopot", "photos": [{"height": 3024, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/103262588869455890820\">A Google User</a>"], "photo_reference": "AUacShhRUwdLxg6X2JikpWk5xyXMQyZaiRNh8JoEi8HNYZEbeXuumqWs0BGHfQc7hCSnVVrfqtnwKRl8cXEvkQUb9GA5gSKfgntH_ezkA0Aq7-GItjBFWZNvHNCcepYAOGyXWDiV8Qg9v9-rhDp785SmFr1qtYWoUNSSEB6LZ-zstve9SiQU", "width": 4032}], "place_id": "ChIJp_h34ZAK_UYRfpUdrxnmosQ", "plus_code": {"compound_code": "CHQ6+XW Sopot", "global_code": "9F6WCHQ6+XW"}, "rating": 4.3, "reference": "ChIJp_h34ZAK_UYRfpUdrxnmosQ", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 549}, {"business_status": "OPERATIONAL", "formatted_address": "81-759 Sopot", "geometry": {"location": {"lat": 54.430836, "lng": 18.565351}, "viewport": {"northeast": {"lat": 54.43218582989273, "lng": 18.56670082989272}, "southwest": {"lat": 54.42948617010729, "lng": 18.56400117010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Sopot Wy\u015bcigi", "photos": [{"height": 3024, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/106157783281734433991\">\u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d \u0411\u0430\u043b\u044f\u043a\u0438\u043d</a>"], "photo_reference": "AUacShiTgMZd0RAaJDl2XZyZzcpn9F61K2YlyHRrIhxIxRhLPsfyHI7HmDtNQohJS9c1pZBCMgTCa8J7i5G3eEg7fbXi41T-zWPNmC755YEo9zD07OmpDERxuCw11MiJfMPar643ds7Q6ttipG4QCQWSb_XhrMt9veBFxyAtUDi0J5XvLSnE", "width": 4032}], "place_id": "ChIJu4K7pr8K_UYR6oPuOo7w-ug", "plus_code": {"compound_code": "CHJ8+84 Sopot", "global_code": "9F6WCHJ8+84"}, "rating": 4.1, "reference": "ChIJu4K7pr8K_UYR6oPuOo7w-ug", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 47}, {"business_status": "OPERATIONAL", "formatted_address": "Gda\u0144sk", "geometry": {"location": {"lat": 54.40984, "lng": 18.57187}, "viewport": {"northeast": {"lat": 54.41118982989273, "lng": 18.57321982989273}, "southwest": {"lat": 54.40849017010728, "lng": 18.57052017010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Oliwa", "photos": [{"height": 4000, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/114179211401348893200\">A Google User</a>"], "photo_reference": "AUacShgwJBIQsa0GDxJCpZWl3-6JkRCp95hqN9c3rYEJ3VXsPUO69N3cCxSJvsO3cJMwJAjMZ5KThRNPJqlmiMJyzDhm_KEfQAUvOvXYvDfp52BSID0S4ePQ-J1Q-ZnF7bO0qZ-G21_i90gw-94CZYQOpXBnOEM5M7rWUktA0sRoFXxZBe0-", "width": 6000}], "place_id": "ChIJw2OIq9IK_UYRS0VIUtjtm6w", "plus_code": {"compound_code": "CH5C+WP Gda\u0144sk", "global_code": "9F6WCH5C+WP"}, "rating": 3.8, "reference": "ChIJw2OIq9IK_UYRS0VIUtjtm6w", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 347}, {"business_status": "OPERATIONAL", "formatted_address": "80-298 Gda\u0144sk", "geometry": {"location": {"lat": 54.37379370000001, "lng": 18.5061668}, "viewport": {"northeast": {"lat": 54.37511352989272, "lng": 18.50762612989272}, "southwest": {"lat": 54.37241387010728, "lng": 18.50492647010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Matarnia", "photos": [{"height": 3456, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/103511094877838338758\">Szymon Mali\u0144ski</a>"], "photo_reference": "AUacShhgPwPSwyWxqVJkiRMhXmzGt9Pgjf8w4k4NCgxQXPtaXH3H-dnIUecHpip6120d0V9DRjPcKXyCf7Gd-cdx2sT6YkdMedQdrb9HCCxtBMLOKwaq925PJvvLYEC64Ud2gvHv8KuYZvgkVQIgavrSvxipZNqM0hY8LzpC1zg5TJk6cfR3", "width": 4608}], "place_id": "ChIJ_wI8jIJ1_UYR6Tm7m7YoYd0", "plus_code": {"compound_code": "9GF4+GF Gda\u0144sk", "global_code": "9F6W9GF4+GF"}, "rating": 4, "reference": "ChIJ_wI8jIJ1_UYR6Tm7m7YoYd0", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 18}, {"business_status": "OPERATIONAL", "formatted_address": "Gda\u0144sk", "geometry": {"location": {"lat": 54.38195, "lng": 18.60508}, "viewport": {"northeast": {"lat": 54.38329982989272, "lng": 18.60642982989272}, "southwest": {"lat": 54.38060017010727, "lng": 18.60373017010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Wrzeszcz", "photos": [{"height": 3000, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104933983902364641598\">Mieczys\u0142aw Kami\u0144ski</a>"], "photo_reference": "AUacShgRjCeU2Ena4BATsj7zcryheNNvOxm4dKqEihxYgPm3EFfZO_J9-LggHK6C1oWgVmXFSLoE7AARF2u3B-EMXNqytyixWNuBBPtnXKxDIzmuDB-Ws4AzzqcCNWKoiX_JyuFPdL_GhbxLXjy8LOYob1KCRIh3Je0N4R-UgYUaZTl4v-2R", "width": 4000}], "place_id": "ChIJ6dUe_L90_UYRKbmYqI387I4", "plus_code": {"compound_code": "9JJ4+Q2 Gda\u0144sk", "global_code": "9F6W9JJ4+Q2"}, "rating": 3.7, "reference": "ChIJ6dUe_L90_UYRKbmYqI387I4", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 546}, {"business_status": "OPERATIONAL", "formatted_address": "Bitwy Oliwskiej, 80-339 Gda\u0144sk", "geometry": {"location": {"lat": 54.4205828, "lng": 18.5681444}, "viewport": {"northeast": {"lat": 54.42196742989272, "lng": 18.56916912989272}, "southwest": {"lat": 54.41926777010728, "lng": 18.56646947010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk \u017babianka - AWFiS", "photos": [{"height": 4000, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/117125097631164173011\">Grzegorz Przygoda</a>"], "photo_reference": "AUacShiMjsFmaHn1THf7q5czAV2tzzcBu_Gh0AusVuXfDVsaClR-P5Jb-eRrHEud6Zim-ztXkBvvChcU340CJJTSLuv4UMYS7PbIXyDbalyMS-ZEg_ilY3nZ6raJPiB8tBtbAzcQGRAXlH7YF-BqAjbUoS2j98JHAQRtyXSM7aW5ZdC-v1G2", "width": 6000}], "place_id": "ChIJRws0vcgK_UYRlbZi-tEBJIk", "plus_code": {"compound_code": "CHC9+67 Gda\u0144sk", "global_code": "9F6WCHC9+67"}, "rating": 4.1, "reference": "ChIJRws0vcgK_UYRlbZi-tEBJIk", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 68}, {"business_status": "OPERATIONAL", "formatted_address": "80-283 Gda\u0144sk", "geometry": {"location": {"lat": 54.3647649, "lng": 18.5732825}, "viewport": {"northeast": {"lat": 54.36611472989272, "lng": 18.57463232989272}, "southwest": {"lat": 54.36341507010727, "lng": 18.57193267010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Br\u0119towo", "photos": [{"height": 1440, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/110147926729355263186\">A Google User</a>"], "photo_reference": "AUacShhsRFG96W7bq4pmcABgRVpc6YDDP92hKZp1xStsJz40Mz7R55Uz0BMzEh9prvuz4pp5hdhOT4GCI7FlLMWDN5ll74nxw_eGYhnINWD53G4uo-Dy-Cp_WcQ5ALdTzA3eTyn_E7RZLABe-46MYG2IbXi1IWCobjAL-Baf0WCyx9iUwG40", "width": 1920}], "place_id": "ChIJ3X3uDvh0_UYRurLPe-BuEdA", "plus_code": {"compound_code": "9H7F+W8 Gda\u0144sk", "global_code": "9F6W9H7F+W8"}, "rating": 4.6, "reference": "ChIJ3X3uDvh0_UYRurLPe-BuEdA", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 31}, {"business_status": "OPERATIONAL", "formatted_address": "80-268 Gda\u0144sk", "geometry": {"location": {"lat": 54.3912972, "lng": 18.5782212}, "viewport": {"northeast": {"lat": 54.39264702989271, "lng": 18.57957102989272}, "southwest": {"lat": 54.38994737010727, "lng": 18.57687137010727}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Strzy\u017ca", "photos": [{"height": 3492, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104984888393883252065\">Ma Ko</a>"], "photo_reference": "AUacShhOIux6QX6pTiEDF_VNauhMrmOxNUdvGHo6uY-MXHTghzlaOwAJ7xvlXf6Dz4VqO6mfKS6tjHmtKKa_rsK7gt_rY4sLB7P1m-m0DG35Q3HrABz5IHR0s3IsoXfVVuGZKKD2KwZpdZXTyatG1yOqJlOOdVLoS78pHhXtu4rofAE2IHPW", "width": 4656}], "place_id": "ChIJW_kISt90_UYRiXq6tnw-KWs", "plus_code": {"compound_code": "9HRH+G7 Gda\u0144sk", "global_code": "9F6W9HRH+G7"}, "rating": 4.5, "reference": "ChIJW_kISt90_UYRiXq6tnw-KWs", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 51}, {"business_status": "OPERATIONAL", "formatted_address": "80-283 Gda\u0144sk", "geometry": {"location": {"lat": 54.3535856, "lng": 18.5500301}, "viewport": {"northeast": {"lat": 54.35474452989271, "lng": 18.55126627989272}, "southwest": {"lat": 54.35204487010727, "lng": 18.54856662010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Jasie\u0144", "photos": [{"height": 3472, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/111630556164163504367\">A Google User</a>"], "photo_reference": "AUacShjNql8J1j0Yn1BOHPysPknWw-Y7M9-TzI_nSekf-ux39P9_-KyumTktiWLSMR-FmJ-FhNPi6NmAhWCxrFTHzXximweux1OlbzPE-Tp_wpNGBhWdKGd772PXmBMI3toROvUBhilSjURi5zCbFrDf2GJ_j_rOba7D14VAsHuPrwl9K10", "width": 4624}], "place_id": "ChIJK6yA1kx0_UYRQ65gdhOd7Io", "plus_code": {"compound_code": "9H32+C2 Gda\u0144sk", "global_code": "9F6W9H32+C2"}, "rating": 4.7, "reference": "ChIJK6yA1kx0_UYRQ65gdhOd7Io", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 41}, {"business_status": "OPERATIONAL", "formatted_address": "80-176 Gda\u0144sk", "geometry": {"location": {"lat": 54.3552481, "lng": 18.5287837}, "viewport": {"northeast": {"lat": 54.35652567989272, "lng": 18.53008387989272}, "southwest": {"lat": 54.35382602010728, "lng": 18.52738422010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Kie\u0142pinek", "photos": [{"height": 2880, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/107685730510914751997\">\u042e\u0440\u0430 \u0424\u0438\u0433\u0443\u0440\u0430</a>"], "photo_reference": "AUacShhJeXqhEg9gZ1vXPOO8lb8B-viU9PviL-2fI4xJux_P2gb7IxeD1byN_I4z3YkHoXhJKp66PPLCize5cSaDfREHSrmpqYkaYMr6tLCQzwJ2HhA2jZYahXANhEX99eFNjdazoB1tEvuBf4c9lzwxkyFrXFslSjJp7lN0UYeRHms2rPWj", "width": 3840}], "place_id": "ChIJYf-zNrp1_UYR3S5ADvBz4dU", "plus_code": {"compound_code": "9G4H+3G Gda\u0144sk", "global_code": "9F6W9G4H+3G"}, "rating": 4.6, "reference": "ChIJYf-zNrp1_UYR3S5ADvBz4dU", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 32}, {"business_status": "OPERATIONAL", "formatted_address": "Dworcowa 1, 83-004 Pruszcz Gda\u0144ski", "geometry": {"location": {"lat": 54.2585221, "lng": 18.6463231}, "viewport": {"northeast": {"lat": 54.25992002989271, "lng": 18.64756007989272}, "southwest": {"lat": 54.25722037010727, "lng": 18.64486042010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Pruszcz Gda\u0144ski railway station", "photos": [{"height": 1932, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/109713664099792372175\">gagatek1983 .</a>"], "photo_reference": "AUacShifguv-iSIWLRn7KjvdSNtqqDN8nxv28BhqQOrqB0e_n0qZTLIXsQC0or0FJOT7v92sF6MQ2Pc9vr2X-yI3FdKMHnRL7D8Ktm-dq3ejD_v6GprplmMjPl57zq7A99XngdGJabVv5hiMfJnQLQg1Hc3FXsWZWBGZiA5Flr_fyqEQUJRo", "width": 2576}], "place_id": "ChIJWXKEUUxw_UYRDkpIeC24V1Y", "plus_code": {"compound_code": "7J5W+CG Pruszcz Gda\u0144ski", "global_code": "9F6W7J5W+CG"}, "rating": 3.9, "reference": "ChIJWXKEUUxw_UYRDkpIeC24V1Y", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 69}, {"business_status": "OPERATIONAL", "formatted_address": "80-257 Gda\u0144sk", "geometry": {"location": {"lat": 54.3775986, "lng": 18.5717668}, "viewport": {"northeast": {"lat": 54.37894842989272, "lng": 18.57311662989272}, "southwest": {"lat": 54.37624877010728, "lng": 18.57041697010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Nied\u017awiednik", "photos": [{"height": 2592, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/106615909256339589270\">A Google User</a>"], "photo_reference": "AUacShgNfkNGKyTvjW7wOZKD6605_61mBFTFO-t3A9Co60nJa7PHKDK-IPpRmyyXkBFUGQYn-tUtUczb15xChTgTuwqslh7rUAuB9fbya_XptMAC_cwiP5z1zlUwvLZ3y4ROxSrX1i0-3VMdE4khUJw28TuXzgzkf2xa2yABTYq0E0foajY2", "width": 4608}], "place_id": "ChIJO6GPEON0_UYR2VXR1_fGeKE", "plus_code": {"compound_code": "9HHC+2P Gda\u0144sk", "global_code": "9F6W9HHC+2P"}, "rating": 4.9, "reference": "ChIJO6GPEON0_UYR2VXR1_fGeKE", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 12}, {"business_status": "OPERATIONAL", "formatted_address": "plac Oru\u0144ski, 80-056 Gda\u0144sk", "geometry": {"location": {"lat": 54.3243158, "lng": 18.6346866}, "viewport": {"northeast": {"lat": 54.32562567989272, "lng": 18.63617212989272}, "southwest": {"lat": 54.32292602010728, "lng": 18.63347247010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Orunia", "photos": [{"height": 2268, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104314273785504142501\">A Google User</a>"], "photo_reference": "AUacShgO4JSvC8NgBbNfjLMD9muOYWhgSURwtaIbJLsSP_3z1xV4LQZROw6a3ozBu8PKOIv1fqBspg36sZDLhQ6o0KNouvpFgV8OFTeZ0kHAJCqdcKiaWpyTmyQnpcFPpNu25H9aDyEw8Af2fgNI6JU3zYCYmp1cW18bVyJBapU00a0IbT0e", "width": 4032}], "place_id": "ChIJOZM95ulz_UYRIW8f0g189D0", "plus_code": {"compound_code": "8JFM+PV Gda\u0144sk", "global_code": "9F6W8JFM+PV"}, "rating": 3.9, "reference": "ChIJOZM95ulz_UYRIW8f0g189D0", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 46}, {"business_status": "OPERATIONAL", "formatted_address": "Niegowska, 80-058 Gda\u0144sk", "geometry": {"location": {"lat": 54.3022718, "lng": 18.635384}, "viewport": {"northeast": {"lat": 54.30380492989272, "lng": 18.63681437989272}, "southwest": {"lat": 54.30110527010728, "lng": 18.63411472010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Gda\u0144sk Lipce", "photos": [{"height": 4160, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/104792763557179235610\">Arass Hater</a>"], "photo_reference": "AUacShjMXBUeeZGc65PlwE8G2DqmSp0BAqsNv7xSpc-6gcFkR0GoEEgeuxpM4pI70xdCPqPFtVRK-pbXSP5KB5f6vpzizbcLtvM6KsMIP6Y7iXU2TUagdxce_YXdf586SettK8OJWobh4rH5FYrH_q-Uv1rkvcKPKIb54BfxRWRcEV0tt569", "width": 3120}], "place_id": "ChIJbT3tx2Rx_UYRdGvNlhZmhbw", "plus_code": {"compound_code": "8J2P+W5 Gda\u0144sk", "global_code": "9F6W8J2P+W5"}, "rating": 4.2, "reference": "ChIJbT3tx2Rx_UYRdGvNlhZmhbw", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 13}, {"business_status": "OPERATIONAL", "formatted_address": "81-861 Sopot", "geometry": {"location": {"lat": 54.4573948, "lng": 18.5536554}, "viewport": {"northeast": {"lat": 54.45874462989272, "lng": 18.55500522989272}, "southwest": {"lat": 54.45604497010728, "lng": 18.55230557010728}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png", "icon_background_color": "#10BDFF", "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet", "name": "Sopot Kamienny Potok", "photos": [{"height": 3120, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/108124592231433250659\">A Google User</a>"], "photo_reference": "AUacShj3L68FXGeVrRmjuMQfY9kHXgvyGGpZcm3WJLmFztnbBM4s2p3HWySyF94bHttl2gSh9N4-u4gWfHtaBFp4LoRAbuWghGg8rXlsRyoBEpZQvaphI-eNf0eP2mje2_UdilRhrUOJVvjKeyU8M2My4WveHP7xdsrwjFO5KW8z9dcbr2Z_", "width": 4160}], "place_id": "ChIJ34BWCoAK_UYRFe_sZd5BZ-w", "plus_code": {"compound_code": "FH43+XF Sopot", "global_code": "9F6WFH43+XF"}, "rating": 4.4, "reference": "ChIJ34BWCoAK_UYRFe_sZd5BZ-w", "types": ["train_station", "transit_station", "point_of_interest", "establishment"], "user_ratings_total": 37}], "status": "OK"}
+{
+    "html_attributions": [],
+    "next_page_token": "AUacShjo0X3CmbTb9tTG4xJN-G2sce9j1FhunyDZDhPDT_Mkf_vJzCDoot5IrN1isWRMMxuVzRv5mag7fpJNEGPAvNI81nH6m2ki0SenhqfcIxOyiF7zI7zcvkpMsVVpCN7E-u06Zmiz2s5T4C1wA26LKL5zC7Z1I5bEDIsjfosPM3eXpqD2qdKfu3axrpUfEuO8fb9sCjyjMrxtIUbdzPJEOySfSeyjU_M34dKMPWiFBiqNxTZ0ljZKJ2zHlUVOYbJ2vEwi1nswpEyYwTZ96V9Od3t5-UGGdELEemCYWTq_gWANFK4m5RNIH81rTfItjm5guHpI7osAzyrHcHXUd8dELQ9QKGH0krcjoypfL2pXRwcBq8SPJnSyBHCvHEpJKo82CRyC8Z6jRbnWd6amw4i0vzKtvk_8p4XrKEIRWR9p2ZhmK6HaeYqPDJmT-j4M357wDvw9saP8y-n0_A",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Malborska, 80-309 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.40079369999999,
+                    "lng": 18.5765929
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.40214352989271,
+                        "lng": 18.57794272989273
+                    },
+                    "southwest": {
+                        "lat": 54.39944387010727,
+                        "lng": 18.57524307010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Przymorze-Uniwer.",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111119371615163888963\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShi6YJiM9aBA9qiA11NqgpcOSKqLN9nfdULQFQUJNG-7k4CWgmVu_Tnq8WGg4ec49m9Z73ty0o_1wFUTQy_E2xDpZPqrqCwBEJEHaGSiulvCWstBGOJucDy5G-_l3nCJXOg28ivFsi09OzWj-xCFeAieA_wgn92yswPn9whF8IuHuTcg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ9YGWHSl1_UYRghqwL1MVXCk",
+            "plus_code": {
+                "compound_code": "CH2G+8J Gda\u0144sk",
+                "global_code": "9F6WCH2G+8J"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ9YGWHSl1_UYRghqwL1MVXCk",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 78
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "80-001, Jana z Kolna 11, Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.36471539999999,
+                    "lng": 18.6416852
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.36616757989272,
+                        "lng": 18.64326932989272
+                    },
+                    "southwest": {
+                        "lat": 54.36346792010728,
+                        "lng": 18.64056967010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Stocznia",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114244761853841460697\">kejtunia79</a>"
+                    ],
+                    "photo_reference": "AUacShhbqUz8xgpzSZ1ATFgMiD1w47l-CchI-QRyoZ4IaMo4XHI06I3TufC11T6WmqJS-BWREfqneYAMm55zMobHs738C--NllEhZ-N8Zsy_uZyJ6JpTSr8tXW7Jl8AgwIm_CI6Ph28TzrcnFrCJri3znyNU9D0miRdxENGl0YyZHlOvimFc",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZSuf0WRz_UYReFZvQWnIjzg",
+            "plus_code": {
+                "compound_code": "9J7R+VM Gda\u0144sk",
+                "global_code": "9F6W9J7R+VM"
+            },
+            "rating": 3.8,
+            "reference": "ChIJZSuf0WRz_UYReFZvQWnIjzg",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 106
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Trubadur\u00f3w, Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3743874,
+                    "lng": 18.6268433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.37562987989273,
+                        "lng": 18.62824322989272
+                    },
+                    "southwest": {
+                        "lat": 54.37293022010728,
+                        "lng": 18.62554357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Politechnika",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108124592231433250659\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShheJCkdiRhQAmqe9Tw323W75X6HNsJ81DMy7qCxW2RiWd_HMEhQ6h0j_VZo3QR9UYJ56UgiQep7TvfArRIey30yVab8BwAELC1_lRahFFgRUZDZwmDIbnqQ_nAOQ3Q2I6X01pxPnZ230NTs6qwpbklYW0trDJX4ccLvcsTFpqY_ohTB",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ3XDTt550_UYRqcvB8c15-Zk",
+            "plus_code": {
+                "compound_code": "9JFG+QP Gda\u0144sk",
+                "global_code": "9F6W9JFG+QP"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ3XDTt550_UYRqcvB8c15-Zk",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 89
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "80-819 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3461015,
+                    "lng": 18.6445955
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.34746112989271,
+                        "lng": 18.64611077989272
+                    },
+                    "southwest": {
+                        "lat": 54.34476147010727,
+                        "lng": 18.64341112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk \u015ar\u00f3dmie\u015bcie",
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111175188091135349822\">Pawe\u0142 Nodzak</a>"
+                    ],
+                    "photo_reference": "AUacShiWNVtJE73ikEkz_I3-e7_choRxSEKbgDZUucm443YGeebU6zjgMU59x0X8Rg8Fji4KtF5DZ3Lehihz-F__nWVlfEeNDu359468KewjSzIpqgDNrbGQ7E_GW8KvDQakj9XPex8Y6ny9DWnl9SJJBEzV-d7ELL0MGl6rmVu_rEVgR-O6",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJjcDqO5lz_UYR7Cj_ode07PE",
+            "plus_code": {
+                "compound_code": "8JWV+CR Gda\u0144sk",
+                "global_code": "9F6W8JWV+CR"
+            },
+            "rating": 4.2,
+            "reference": "ChIJjcDqO5lz_UYR7Cj_ode07PE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Braci Lewoniewskich, 80-465 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3899056,
+                    "lng": 18.591316
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.39085747989272,
+                        "lng": 18.59333627989272
+                    },
+                    "southwest": {
+                        "lat": 54.38815782010728,
+                        "lng": 18.59063662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Zaspa",
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108381417404503808277\">Mariusz B</a>"
+                    ],
+                    "photo_reference": "AUacShiE02dikViWNMHwf9n1Vhb_U9O79DfiCHP0-xdTuxEOGAiPJ9aHWisjqBtgXwDNWL8VVNwsBO2PZmum0wYgECxH9KmA0LjQHXRUc31KgRIJHxQ-PEWV_aNvwdZmTDWZuEr08WfCzS1QJy-EGA--uHRxOq9jgGJv1HR2sBYaomHeC3IR",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ4dYKV9t0_UYR_1v0_lniR9A",
+            "plus_code": {
+                "compound_code": "9HQR+XG Gda\u0144sk",
+                "global_code": "9F6W9HQR+XG"
+            },
+            "rating": 3.2,
+            "reference": "ChIJ4dYKV9t0_UYR_1v0_lniR9A",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dworcowa 7, 81-704 Sopot",
+            "geometry": {
+                "location": {
+                    "lat": 54.43996,
+                    "lng": 18.56236
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.44129372989272,
+                        "lng": 18.56344787989272
+                    },
+                    "southwest": {
+                        "lat": 54.43859407010728,
+                        "lng": 18.56074822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Sopot",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103262588869455890820\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjdXKPpMMLFEYRuXQNmYDE35oj-CGhqsqkDQVRIaKolm28H5JLMtYCfRfMjiK47oy-wJWwPbzpnvxhaekBR2FWhDrkN8DIPWuWtYdIOuZWXAiZV-V-wMUuE5U1XkZfpAmjeLYjRjFNgwGnvCiSBcSBqMqORU_CW1Tq2WvT7V3Z9hOlp",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJp_h34ZAK_UYRfpUdrxnmosQ",
+            "plus_code": {
+                "compound_code": "CHQ6+XW Sopot",
+                "global_code": "9F6WCHQ6+XW"
+            },
+            "rating": 4.3,
+            "reference": "ChIJp_h34ZAK_UYRfpUdrxnmosQ",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 549
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "81-759 Sopot",
+            "geometry": {
+                "location": {
+                    "lat": 54.430836,
+                    "lng": 18.565351
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.43218582989273,
+                        "lng": 18.56670082989272
+                    },
+                    "southwest": {
+                        "lat": 54.42948617010729,
+                        "lng": 18.56400117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Sopot Wy\u015bcigi",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106157783281734433991\">\u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d \u0411\u0430\u043b\u044f\u043a\u0438\u043d</a>"
+                    ],
+                    "photo_reference": "AUacShhJ2WnT7ev1Juf0eakTktFwJV4C74F956dUQE2Qr-i54-XyQ-YRtnBss57sjKHh9TU0gqzbGc6OhI7dzBs_m6FE9RnOqGHj1EkhuK_brvbdkJA-hQC2efZBxsVZEO1APWEmyBvseg_McqCqTNihfm87fer2bMlTIHyQqMUANc4-2igy",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJu4K7pr8K_UYR6oPuOo7w-ug",
+            "plus_code": {
+                "compound_code": "CHJ8+84 Sopot",
+                "global_code": "9F6WCHJ8+84"
+            },
+            "rating": 4.1,
+            "reference": "ChIJu4K7pr8K_UYR6oPuOo7w-ug",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.40984,
+                    "lng": 18.57187
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.41118982989273,
+                        "lng": 18.57321982989273
+                    },
+                    "southwest": {
+                        "lat": 54.40849017010728,
+                        "lng": 18.57052017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Oliwa",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114179211401348893200\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShh99Mtl1lx6cLDgFsnLBYv24UFgkB9zEdBAZ2Sxx_tWXXE7X-g4a5TWnNqNywQHB7LX4ougDol_RkUWOp3fcmlExMApAxpGuspJZhBg1T1pmp74eRarFbmdZwcmqOkFCq2bNPOwtQeay1qWB05FbtQoI2UtwoKyBk039j176FhjX7rd",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJw2OIq9IK_UYRS0VIUtjtm6w",
+            "plus_code": {
+                "compound_code": "CH5C+WP Gda\u0144sk",
+                "global_code": "9F6WCH5C+WP"
+            },
+            "rating": 3.8,
+            "reference": "ChIJw2OIq9IK_UYRS0VIUtjtm6w",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 347
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "80-298 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.37379370000001,
+                    "lng": 18.5061668
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.37511352989272,
+                        "lng": 18.50762612989272
+                    },
+                    "southwest": {
+                        "lat": 54.37241387010728,
+                        "lng": 18.50492647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Matarnia",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103511094877838338758\">Szymon Mali\u0144ski</a>"
+                    ],
+                    "photo_reference": "AUacShjzfhAWmuulgtpwdItv8MZfHrYZI7JTl6P4BZ7SIWFnhQWKoOTnr95oaWTL_8AssH-FRi4Kw0IUaLBE-JPHvhxvOb_6uB02d7lYAMnezgAD-foI0Zfms7BxfewPBbeflid3gVwWHKGbl5jJpT6s0nCEQhyNdVsW3frFahx_n3mXjQZh",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ_wI8jIJ1_UYR6Tm7m7YoYd0",
+            "plus_code": {
+                "compound_code": "9GF4+GF Gda\u0144sk",
+                "global_code": "9F6W9GF4+GF"
+            },
+            "rating": 4,
+            "reference": "ChIJ_wI8jIJ1_UYR6Tm7m7YoYd0",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.38195,
+                    "lng": 18.60508
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.38329982989272,
+                        "lng": 18.60642982989272
+                    },
+                    "southwest": {
+                        "lat": 54.38060017010727,
+                        "lng": 18.60373017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Wrzeszcz",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104933983902364641598\">Mieczys\u0142aw Kami\u0144ski</a>"
+                    ],
+                    "photo_reference": "AUacShhaAvngOmWV_XH9xtKu6DdUiiUqQcuIzgPJ9m_0UDG8kms7EC4PK_V23Rc7D9unApgK-KUbsnvJ8Xt0ug0YdrjY3K5futJS5DaKIVQMHJIl3DhGZYJYal4YIwz1jpr4TdaWi2xaPds3GuC2u02B0YAH0CpY09RbiWJPmQhUM9ImBnAP",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ6dUe_L90_UYRKbmYqI387I4",
+            "plus_code": {
+                "compound_code": "9JJ4+Q2 Gda\u0144sk",
+                "global_code": "9F6W9JJ4+Q2"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ6dUe_L90_UYRKbmYqI387I4",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 546
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bitwy Oliwskiej, 80-339 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.4205828,
+                    "lng": 18.5681444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.42196742989272,
+                        "lng": 18.56916912989272
+                    },
+                    "southwest": {
+                        "lat": 54.41926777010728,
+                        "lng": 18.56646947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk \u017babianka - AWFiS",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117125097631164173011\">Grzegorz Przygoda</a>"
+                    ],
+                    "photo_reference": "AUacShgB3tSz9gq-R_UivFnhis78bEIPLp625Awuoi-gTFqAaHsvnozU1CU8FuOnNKRSkuI7cz_FePI8waWQPyvmk7I1QKKhos7WOk-aIWJR1NvKauzIHIdmfrYAxLUeGJZQTo-9tMIehp1uh076C-tphAmE_vcdkt0VHaYZjla9kH8CMWHL",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJRws0vcgK_UYRlbZi-tEBJIk",
+            "plus_code": {
+                "compound_code": "CHC9+67 Gda\u0144sk",
+                "global_code": "9F6WCHC9+67"
+            },
+            "rating": 4.1,
+            "reference": "ChIJRws0vcgK_UYRlbZi-tEBJIk",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 68
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "80-283 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3647649,
+                    "lng": 18.5732825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.36611472989272,
+                        "lng": 18.57463232989272
+                    },
+                    "southwest": {
+                        "lat": 54.36341507010727,
+                        "lng": 18.57193267010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Br\u0119towo",
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110147926729355263186\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjbrhXhrn64ihO4M7AktN3Wg0VmpIkpXjmlPknbKd-3tW9Dcp0LkL-rIWCXr2CYkzCpaKYuCHtPwww24UF3sCVTgvOHT_xWny9YbYXAHbbHSCfEVMkI8xRFstkbqJ8pS6QJ1j6Sf_zeThnUAfnlt8sDC6iC4td0flySJW3g2hbV13sC",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ3X3uDvh0_UYRurLPe-BuEdA",
+            "plus_code": {
+                "compound_code": "9H7F+W8 Gda\u0144sk",
+                "global_code": "9F6W9H7F+W8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ3X3uDvh0_UYRurLPe-BuEdA",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "80-268 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3912972,
+                    "lng": 18.5782212
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.39264702989271,
+                        "lng": 18.57957102989272
+                    },
+                    "southwest": {
+                        "lat": 54.38994737010727,
+                        "lng": 18.57687137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Strzy\u017ca",
+            "photos": [
+                {
+                    "height": 3492,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104984888393883252065\">Ma Ko</a>"
+                    ],
+                    "photo_reference": "AUacShhL2yV1MLvVes9X8SxVXnsSkg7Ca-yYLS7x-r_rKdJtFIgfg--cAWVgzrMyZswlLZdDyaPryTXdoHUIhzB-BEHzm1Fqtu9fA86mZ_nq8hpcXTkzqzDEwv6yXCwXv-ReR3xE3nfRcm5PV_9NhwKmy-N4_tANpX9Iur1Y2qGHjfS4zHKF",
+                    "width": 4656
+                }
+            ],
+            "place_id": "ChIJW_kISt90_UYRiXq6tnw-KWs",
+            "plus_code": {
+                "compound_code": "9HRH+G7 Gda\u0144sk",
+                "global_code": "9F6W9HRH+G7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJW_kISt90_UYRiXq6tnw-KWs",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "80-283 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3535856,
+                    "lng": 18.5500301
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.35474452989271,
+                        "lng": 18.55126627989272
+                    },
+                    "southwest": {
+                        "lat": 54.35204487010727,
+                        "lng": 18.54856662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Jasie\u0144",
+            "photos": [
+                {
+                    "height": 3472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111630556164163504367\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjPHah8PhdxmVYMlE3u3-Ukuu01OYAMOD6Fn9B_Hy6H61CiadfD1L61-pzxPyrNwMQsDaV2rPXm-sDKhwq-u-pvbC-DE4NCP7B93_OuSIrGAgXdr1Q7nmDSkhqpVsRV9VPmcgkDgK-fLDjdocmCwIRjQy_KtYGWipaa4mJ0fxZtcls",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJK6yA1kx0_UYRQ65gdhOd7Io",
+            "plus_code": {
+                "compound_code": "9H32+C2 Gda\u0144sk",
+                "global_code": "9F6W9H32+C2"
+            },
+            "rating": 4.7,
+            "reference": "ChIJK6yA1kx0_UYRQ65gdhOd7Io",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "80-176 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3552481,
+                    "lng": 18.5287837
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.35652567989272,
+                        "lng": 18.53008387989272
+                    },
+                    "southwest": {
+                        "lat": 54.35382602010728,
+                        "lng": 18.52738422010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Kie\u0142pinek",
+            "photos": [
+                {
+                    "height": 2880,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107685730510914751997\">\u042e\u0440\u0430 \u0424\u0438\u0433\u0443\u0440\u0430</a>"
+                    ],
+                    "photo_reference": "AUacShhcmhDJasMIw3FzVbiyY4_JZjIBy5_v5WaSAqFUgv1a4TboS1WglA3tlnL0XvdmyOC-kRUBy-ST4yL114HcHKtQbPxNs8ioUZ8sqOp5jADyKOwsYNt5TWvvac_0pqxKv-PAi6OmQ9PvweaVIkI_Rge0COOVjawCsYvhu2QnhYFHNYaD",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJYf-zNrp1_UYR3S5ADvBz4dU",
+            "plus_code": {
+                "compound_code": "9G4H+3G Gda\u0144sk",
+                "global_code": "9F6W9G4H+3G"
+            },
+            "rating": 4.6,
+            "reference": "ChIJYf-zNrp1_UYR3S5ADvBz4dU",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dworcowa 1, 83-004 Pruszcz Gda\u0144ski",
+            "geometry": {
+                "location": {
+                    "lat": 54.2585221,
+                    "lng": 18.6463231
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.25992002989271,
+                        "lng": 18.64756007989272
+                    },
+                    "southwest": {
+                        "lat": 54.25722037010727,
+                        "lng": 18.64486042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Pruszcz Gda\u0144ski railway station",
+            "photos": [
+                {
+                    "height": 1932,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109713664099792372175\">gagatek1983 .</a>"
+                    ],
+                    "photo_reference": "AUacShhAWgoaWa0AqFZMpU3u0EsXyCw1bfW2jidE6_AswWykjl-I7dXd-2AtgX68--OrHF1xnMQwXmM2EbuXGoQZxqx3IhqQIikHbJ4b00wCxI6bJ-T6OXoX9JRXz_EDI4UcEYcuEXH6f-c4G7DFfQ7TvYqKMVC_Z4ZZJHDCMjpDXR8z7jMZ",
+                    "width": 2576
+                }
+            ],
+            "place_id": "ChIJWXKEUUxw_UYRDkpIeC24V1Y",
+            "plus_code": {
+                "compound_code": "7J5W+CG Pruszcz Gda\u0144ski",
+                "global_code": "9F6W7J5W+CG"
+            },
+            "rating": 3.9,
+            "reference": "ChIJWXKEUUxw_UYRDkpIeC24V1Y",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 69
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "80-257 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3775986,
+                    "lng": 18.5717668
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.37894842989272,
+                        "lng": 18.57311662989272
+                    },
+                    "southwest": {
+                        "lat": 54.37624877010728,
+                        "lng": 18.57041697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Nied\u017awiednik",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106615909256339589270\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShi6WOQt6ojvE9ffCa7m5mlybh0EAmKbskDKnprisRMWBDzyNIFcRabmUv2fswb8aE4J4o0yct3ZNPkiLbpKGDGu59BtJcemIvvt0B0Ry16jojUVb31XbntEfAoq-ABmiyDS5Zpj_8_LLE6PZm0PjmV4FESCviV2VqSL43n4WaUiGMKw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJO6GPEON0_UYR2VXR1_fGeKE",
+            "plus_code": {
+                "compound_code": "9HHC+2P Gda\u0144sk",
+                "global_code": "9F6W9HHC+2P"
+            },
+            "rating": 4.9,
+            "reference": "ChIJO6GPEON0_UYR2VXR1_fGeKE",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "plac Oru\u0144ski, 80-056 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3243158,
+                    "lng": 18.6346866
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.32562567989272,
+                        "lng": 18.63617212989272
+                    },
+                    "southwest": {
+                        "lat": 54.32292602010728,
+                        "lng": 18.63347247010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Orunia",
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104314273785504142501\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShhw5ecLL9Ct6fScYEB_1ZfkKgK8GIVhrAJM7wxXTyWG9GKLCswkrkDcWzd-0CbyginNXGJ8yXETNieEdbg2nd1Gk6Ypf0fOUAVLejJ8M-X8U0q5ctCD01BovdHw1AjHL2TvnskzTgrDPsFf8cFyBm4MR7nZXJXYXgNcjFfM9MJbMZZ8",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJOZM95ulz_UYRIW8f0g189D0",
+            "plus_code": {
+                "compound_code": "8JFM+PV Gda\u0144sk",
+                "global_code": "9F6W8JFM+PV"
+            },
+            "rating": 3.9,
+            "reference": "ChIJOZM95ulz_UYRIW8f0g189D0",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 46
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Niegowska, 80-058 Gda\u0144sk",
+            "geometry": {
+                "location": {
+                    "lat": 54.3022718,
+                    "lng": 18.635384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.30380492989272,
+                        "lng": 18.63681437989272
+                    },
+                    "southwest": {
+                        "lat": 54.30110527010728,
+                        "lng": 18.63411472010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Gda\u0144sk Lipce",
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104792763557179235610\">Arass Hater</a>"
+                    ],
+                    "photo_reference": "AUacShhy_deRLIqVvLoy23WFqUfsgQIdDo0E_TDRqzpBqhJBjw2UYje7-BckA-Ob6Gt-UmqcR4ZMVthWKwg9Wtd4oyb-FlJcgS5U6yKYYNzHugLq3fd99aD4i_Dh8TeiytOP6rC4WhfXBQ4FrXp2Jq3XJT5ZuL-nKKw79fkgHWoSGMQOYInE",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJbT3tx2Rx_UYRdGvNlhZmhbw",
+            "plus_code": {
+                "compound_code": "8J2P+W5 Gda\u0144sk",
+                "global_code": "9F6W8J2P+W5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJbT3tx2Rx_UYRdGvNlhZmhbw",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "81-861 Sopot",
+            "geometry": {
+                "location": {
+                    "lat": 54.4573948,
+                    "lng": 18.5536554
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 54.45874462989272,
+                        "lng": 18.55500522989272
+                    },
+                    "southwest": {
+                        "lat": 54.45604497010728,
+                        "lng": 18.55230557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+            "icon_background_color": "#10BDFF",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+            "name": "Sopot Kamienny Potok",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108124592231433250659\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUacShjti2yNQY0L2vQ1HrKOpTduaOwrGdOguHwC1u7spyvycuNmX6WpOtantgJ6aUvWAsmsTZBFsAjsljqcLsghMM184DEGaccd08YucbBmulXVF7jp1XWcTRVMFpaCm2Yy1iIXHbT4lKI75y6yhD6pHrA5Ogmlnnbfc5CJqUbwXJwf5BoM",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ34BWCoAK_UYRFe_sZd5BZ-w",
+            "plus_code": {
+                "compound_code": "FH43+XF Sopot",
+                "global_code": "9F6WFH43+XF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ34BWCoAK_UYRFe_sZd5BZ-w",
+            "types": [
+                "train_station",
+                "transit_station",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37
+        }
+    ],
+    "status": "OK"
+}

@@ -23,8 +23,6 @@ def plot(df: pd.DataFrame):
 
 
 if __name__ == '__main__':
-    how_close_service = HowCloseIsItService()
-
     pages = get_pages(load=True)
 
     assert get_items_from_page(pages[2]) is not None
@@ -39,7 +37,6 @@ if __name__ == '__main__':
     df = preprocess_items_df(all_items_df)
     print("got: ", df.shape)
 
-    # TODO make some map with the points where I can see gdansk
     how_close_service = HowCloseIsItService()
 
     coords = []
@@ -52,5 +49,7 @@ if __name__ == '__main__':
         df.iloc[0].coords,
     )
     with open("out.json", "w+") as f:
-        f.write(json.dumps(out))
-        print(out)
+        # pretty print json
+        f.write(json.dumps(out, indent=4))
+        from pprint import pprint
+        pprint(out)
