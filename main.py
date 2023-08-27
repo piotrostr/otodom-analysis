@@ -4,20 +4,23 @@ import matplotlib.pyplot as plt
 
 from lib import get_pages, get_items_from_page, preprocess_items_df, HowCloseIsItService
 
+
 def show_best_offers(df: pd.DataFrame):
-	pd.set_option('max_colwidth', 100)
-	df[df['address'].notna()].sort_values(by="price_per_m2")[
-			(df['price'] >= 0) & (df['price'] <= 500_000)].head(30)
+    pd.set_option('max_colwidth', 100)
+    df[df['address'].notna()].sort_values(by="price_per_m2")[(
+        df['price'] >= 0) & (df['price'] <= 500_000)].head(30)
+
 
 def plot(df: pd.DataFrame):
-		# Scatter plot
-		fig, ax = plt.subplots()
-		ax.scatter(df['floor_size'], df['price'])
-		ax.set_xlabel('Floor Size (m^2)')
-		ax.set_ylabel('Price (PLN)')
-		ax.set_title('Price vs Floor Size')
+    # Scatter plot
+    fig, ax = plt.subplots()
+    ax.scatter(df['floor_size'], df['price'])
+    ax.set_xlabel('Floor Size (m^2)')
+    ax.set_ylabel('Price (PLN)')
+    ax.set_title('Price vs Floor Size')
 
-		plt.show()
+    plt.show()
+
 
 if __name__ == '__main__':
     how_close_service = HowCloseIsItService()
@@ -36,7 +39,6 @@ if __name__ == '__main__':
     df = preprocess_items_df(all_items_df)
     print("got: ", df.shape)
 
-
     # TODO make some map with the points where I can see gdansk
     how_close_service = HowCloseIsItService()
 
@@ -48,7 +50,7 @@ if __name__ == '__main__':
     df['coords'] = coords
     out = how_close_service.get_distance_to_nearest_skm_station(
         df.iloc[0].coords,
-                            )
+    )
     with open("out.json", "w+") as f:
         f.write(json.dumps(out))
-		print(out)
+        print(out)
