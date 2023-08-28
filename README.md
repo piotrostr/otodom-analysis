@@ -8,3 +8,5 @@ pages.pkl contains 7k properties from Gdansk; there is no git-lfs, file is like 
 I want to use some more Google Maps API based features, like the distance to
 the center and the closest SKM stop etc to regress and potentially improve my
 apartment search:)
+
+there is a bug in the googlemaps Python package, see https://github.com/googlemaps/google-maps-services-python/pull/499

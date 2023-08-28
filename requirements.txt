@@ -5,3 +5,4 @@ lxml
 matplotlib
 requests
 googlemaps
+gmaps
