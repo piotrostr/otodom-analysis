@@ -104,7 +104,10 @@ class HowCloseIsItService:
             if place["place_id"] in self._ammenities_cache[ammenity]:
                 print(f"Skipping {place['place_id']}")
                 continue
-            self._ammenities_cache[ammenity][place["place_id"]] = place
+            self._ammenities_cache[ammenity][place["place_id"]] = {
+                **place,
+                "ammenity": ammenity,
+            }
 
         with open("ammenities_cache.pkl", "wb+") as f:
             pickle.dump(self._ammenities_cache, f)
@@ -167,42 +170,24 @@ class HowCloseIsItService:
             self._write_to_cache(address, geocode_result)
         return geocode_result
 
-    def get_car_distance(self, origin: Coords, dest: Coords) -> Coords:
-        return []
-
-    def get_walking_distance(self) -> Coords:
-        return []
-
-    def get_distance(self, origin, dest) -> Coords:
-        return []
-
-    def get_distance_to_center(self, coords: Coords) -> Coords:
-        gdansk_coords = self.city_center()
-        return self.get_distance(coords, gdansk_coords)
-
-    def get_distance_to_nearest_skm_station(self, coords: Coords) -> Coords:
-        res = self.gmaps.places(  # type: ignore
-            type="train_station",
-            location=self.city_center(),
-            radius=10_000,
+    def get_distance(
+        self,
+        origin: list[float],
+        dest: list[float],
+        mode: str = "walking",
+    ) -> float:
+        """
+        :param mode: valid values are “driving”, “walking”, “transit” or
+        “bicycling”.
+        :return: distance in meters
+        """
+        res = self.gmaps.distance_matrix(  # type: ignore
+            origins=origin,
+            destinations=dest,
+            mode=mode,
         )
-        # how to handle next pages? do we care if we would be repeating this for
-        # every one of the 1000s of flats?  caching the results could work, we
-        # also are looking for specific things which might even be hand-pickable
-
-        def format_res(res):
-            return []
-
-        return res
-
-    def get_distance_to_nearest_zabka(self, coords: Coords) -> Coords:
-        return []
-
-    def get_distance_to_nearest_store(self, coords: Coords) -> Coords:
-        return []
-
-    def get_distance_to_nearest_train_station(self, coords: Coords) -> Coords:
-        return []
+        assert res["status"] == "OK", res
+        return res["rows"][0]["elements"][0]["distance"]["value"]
 
     def response_to_coords(self, response: GeocodeResponse) -> Coords:
         return [

@@ -83,5 +83,16 @@ if __name__ == "__main__":
         how_close_service,
         use_cache=True,
     )
+    print(ammenities_df["ammenity"].unique())
+    exit()
 
-    print(ammenities_df.shape)
+    origin = df.iloc[0]["coords"]
+    dest = ammenities_df.iloc[0]["coords"]
+
+    for origin in df["coords"].values:
+        for dest in ammenities_df[["coords"]].values:
+            distance = how_close_service.get_distance(
+                [origin], [dest], mode="walking")
+            print(distance)
+    distance = how_close_service.get_distance([origin], [dest], mode="walking")
+    print(distance)
