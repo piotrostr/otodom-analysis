@@ -4,6 +4,7 @@ import googlemaps
 
 from itertools import chain
 from typing import Any
+from pprint import pprint
 
 Coords = list[float]  # [lat, lng]
 
@@ -58,24 +59,40 @@ class HowCloseIsItService:
         with open("cache.pkl", "wb+") as f:
             pickle.dump(self._cache, f)
 
-    def get_all_of_ammenity(self, ammenity: str = "zabka", dry_run=False):
+    def get_all_of_ammenity(self, ammenity: str = "zabka", dry_run=False, use_cache=False) -> Ammenity:
         # the coordinates might be useful so that you don't repeat if the coordinates have been used
         # just read-in to go easy on the free-tier
         if ammenity not in self._ammenities_cache:
             self._ammenities_cache[ammenity] = {}
 
+        if use_cache:
+            return self._ammenities_cache[ammenity]
+
         responses = []
         res = self._make_places_request(ammenity)
         responses.append(res)
+        used_tokens = set()
         i = 0
-        while "next_page_token" in res:
-            print(res["status"])
-            res = self._make_places_request(ammenity, res["next_page_token"])
-            responses.append(res)
-            if dry_run:
+        try:
+            while "next_page_token" in res and res["next_page_token"] not in used_tokens:
+                used_tokens.add(res["next_page_token"])
+
+                res = self._make_places_request(
+                    ammenity, res["next_page_token"])
+                responses.append(res)
+
                 i += 1
-                if i > 3:
+                if i == 10:
+                    # dont want to run too long, paging seems weird and no total
+                    # items count returned 10 iterations seem to provide enough
+                    # data, there are many repeats
                     break
+
+                if dry_run:
+                    break
+        except KeyboardInterrupt:
+            # do the KeyboardInterrupt to stop the paging and preserve the cache
+            pass
 
         places = list(
             chain(
@@ -84,7 +101,7 @@ class HowCloseIsItService:
         )
 
         for place in places:
-            if place['place_id'] in self._ammenities_cache[ammenity]:
+            if place["place_id"] in self._ammenities_cache[ammenity]:
                 print(f"Skipping {place['place_id']}")
                 continue
             self._ammenities_cache[ammenity][place["place_id"]] = place
@@ -101,7 +118,8 @@ class HowCloseIsItService:
             radius=10_000,
             page_token=page_token,
         )
-        assert res["status"] == "OK"
+        if not res["status"] == "ZERO_RESULTS":
+            assert res["status"] == "OK", res
         return res
 
     def _process_places_response(self, res: dict) -> list[dict]:
@@ -122,7 +140,6 @@ class HowCloseIsItService:
         }
         ```
         """
-        assert res["status"] == "OK"
         results = [
             {
                 "place_id": result["place_id"],
@@ -133,6 +150,7 @@ class HowCloseIsItService:
                 ],
                 "address": result["vicinity"],
                 "rating": result["rating"],
+                "types": result["types"],
             }
             for result in res["results"]
         ]
@@ -171,7 +189,6 @@ class HowCloseIsItService:
         # how to handle next pages? do we care if we would be repeating this for
         # every one of the 1000s of flats?  caching the results could work, we
         # also are looking for specific things which might even be hand-pickable
-        assert res["status"] == "OK"
 
         def format_res(res):
             return []
@@ -192,3 +209,11 @@ class HowCloseIsItService:
             response[0]["geometry"]["location"]["lat"],
             response[0]["geometry"]["location"]["lng"],
         ]
+
+    @property
+    def cache(self):
+        return self._cache
+
+    @property
+    def ammenities_cache(self):
+        return self._ammenities_cache

@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 
 import pandas as pd
-import json
-import matplotlib.pyplot as plt
 
-from lib import get_pages, get_items_from_page, preprocess_items_df, HowCloseIsItService
+from pprint import pprint
+from lib import HowCloseIsItService, get_items_from_page, get_pages, preprocess_items_df
 
 
 def show_best_offers(df: pd.DataFrame):
@@ -12,6 +11,48 @@ def show_best_offers(df: pd.DataFrame):
     df[df["address"].notna()].sort_values(by="price_per_m2")[
         (df["price"] >= 0) & (df["price"] <= 500_000)
     ].head(30)
+
+
+def get_ammenities_df(how_close_service: HowCloseIsItService, use_cache=False):
+    zabki = how_close_service.get_all_of_ammenity(
+        "zabka",
+        use_cache=use_cache,
+    )
+    biedronki = how_close_service.get_all_of_ammenity(
+        "biedronka",
+        use_cache=use_cache,
+    )
+    lidle = how_close_service.get_all_of_ammenity(
+        "lidl",
+        use_cache=use_cache,
+    )
+    stacje = how_close_service.get_all_of_ammenity(
+        "stacja paliw",
+        use_cache=use_cache,
+    )
+    restauracje = how_close_service.get_all_of_ammenity(
+        "restauracja",
+        use_cache=use_cache,
+    )
+    skm = how_close_service.get_all_of_ammenity(
+        "skm",
+        use_cache=use_cache,
+    )
+    pociagi = how_close_service.get_all_of_ammenity(
+        "pociag",
+        use_cache=use_cache,
+    )
+    return pd.DataFrame(
+        [
+            *zabki.values(),
+            *biedronki.values(),
+            *lidle.values(),
+            *stacje.values(),
+            *restauracje.values(),
+            *skm.values(),
+            *pociagi.values(),
+        ]
+    )
 
 
 if __name__ == "__main__":
@@ -38,17 +79,9 @@ if __name__ == "__main__":
 
     df["coords"] = coords
 
-    from pprint import pprint
+    ammenities_df = get_ammenities_df(
+        how_close_service,
+        use_cache=True,
+    )
 
-    biedry = how_close_service.get_all_of_ammenity("biedronka", dry_run=True)
-    pprint(biedry)
-
-    import gmaps
-
-    fig = gmaps.figure()
-
-    for ammenity, ammenity_data in biedry.items():
-        marker_layer = gmaps.marker_layer(tuple(ammenity_data['coords']))
-        fig.add_layer(marker_layer)
-
-    fig
+    print(ammenities_df.shape)
