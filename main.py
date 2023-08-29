@@ -197,5 +197,7 @@ if __name__ == "__main__":
                     [closest_ammenity_coord],
                 )
             )
+        df["distance_to_closest_" + ammenity_type] = distance_to_closest
+
     with open("final_df.pkl", "wb+") as f:
         df.to_pickle(f)
