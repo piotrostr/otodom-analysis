@@ -2580,6 +2580,16 @@ objc = ["pyobjc-framework-Cocoa"]
 win32 = ["pywin32"]
 
 [[package]]
+name = "simplekml"
+version = "1.3.6"
+description = "A Simple KML creator"
+optional = false
+python-versions = "*"
+files = [
+    {file = "simplekml-1.3.6.tar.gz", hash = "sha256:cda687be2754395fcab664e908ebf589facd41e8436d233d2be37a69efb1c536"},
+]
+
+[[package]]
 name = "six"
 version = "1.16.0"
 description = "Python 2 and 3 compatibility utilities"
@@ -2824,4 +2834,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "b8f7045c73039ca3adadb91704f4bcb4384e7ddd50d59900952b9546a5f76c10"
+content-hash = "f96f502430225f48948234129e2d5efea381fd81cd076efe054cbd71eec4ef89"
