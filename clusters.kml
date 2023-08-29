@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Cluster Center</name>
+            <Point id="2">
+                <coordinates>18.583798646780686,54.322050609859154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Cluster Center</name>
+            <Point id="4">
+                <coordinates>18.657744421801567,54.35141780326371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Cluster Center</name>
+            <Point id="6">
+                <coordinates>18.553712302586206,54.33575902658046,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Cluster Center</name>
+            <Point id="8">
+                <coordinates>18.616125515503875,54.328104106666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Cluster Center</name>
+            <Point id="10">
+                <coordinates>18.584003798989897,54.409740533333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Cluster Center</name>
+            <Point id="12">
+                <coordinates>18.64068067070707,54.39660874808081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Cluster Center</name>
+            <Point id="14">
+                <coordinates>18.59466073902439,54.37246653313008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Cluster Center</name>
+            <Point id="16">
+                <coordinates>18.8659375592,54.3411103944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Cluster Center</name>
+            <Point id="18">
+                <coordinates>18.50601311574074,54.37523602592592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Cluster Center</name>
+            <Point id="20">
+                <coordinates>18.475490635416666,54.422496603125,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

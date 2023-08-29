@@ -1,0 +1,2423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="9827">
+        <Placemark id="9829">
+            <name>Cluster Center</name>
+            <Point id="9828">
+                <coordinates>18.6727758,54.3493226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9831">
+            <name>Cluster Center</name>
+            <Point id="9830">
+                <coordinates>18.6151148,54.376535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9833">
+            <name>Cluster Center</name>
+            <Point id="9832">
+                <coordinates>18.6184083,54.38310079999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9835">
+            <name>Cluster Center</name>
+            <Point id="9834">
+                <coordinates>18.6282051,54.38711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9837">
+            <name>Cluster Center</name>
+            <Point id="9836">
+                <coordinates>18.6566899,54.3419955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9839">
+            <name>Cluster Center</name>
+            <Point id="9838">
+                <coordinates>18.647676,54.344196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9841">
+            <name>Cluster Center</name>
+            <Point id="9840">
+                <coordinates>18.668464,54.3491327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9843">
+            <name>Cluster Center</name>
+            <Point id="9842">
+                <coordinates>18.6478399,54.355707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9845">
+            <name>Cluster Center</name>
+            <Point id="9844">
+                <coordinates>18.612949,54.374877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9847">
+            <name>Cluster Center</name>
+            <Point id="9846">
+                <coordinates>18.586994,54.3802799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9849">
+            <name>Cluster Center</name>
+            <Point id="9848">
+                <coordinates>18.6064537,54.3836475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9851">
+            <name>Cluster Center</name>
+            <Point id="9850">
+                <coordinates>18.5800241,54.4230386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9853">
+            <name>Cluster Center</name>
+            <Point id="9852">
+                <coordinates>18.5977629,54.4090766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9855">
+            <name>Cluster Center</name>
+            <Point id="9854">
+                <coordinates>18.6085583,54.3946858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9857">
+            <name>Cluster Center</name>
+            <Point id="9856">
+                <coordinates>18.5676344,54.4086992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9859">
+            <name>Cluster Center</name>
+            <Point id="9858">
+                <coordinates>18.6106494,54.3705298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9861">
+            <name>Cluster Center</name>
+            <Point id="9860">
+                <coordinates>18.5666317,54.34903560000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9863">
+            <name>Cluster Center</name>
+            <Point id="9862">
+                <coordinates>18.559318,54.3226643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9865">
+            <name>Cluster Center</name>
+            <Point id="9864">
+                <coordinates>18.7158367,54.3608732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9867">
+            <name>Cluster Center</name>
+            <Point id="9866">
+                <coordinates>18.606617,54.3804826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9869">
+            <name>Cluster Center</name>
+            <Point id="9868">
+                <coordinates>18.540493,54.52124019999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9871">
+            <name>Cluster Center</name>
+            <Point id="9870">
+                <coordinates>18.537331,54.5211337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9873">
+            <name>Cluster Center</name>
+            <Point id="9872">
+                <coordinates>18.5401977,54.5193354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9875">
+            <name>Cluster Center</name>
+            <Point id="9874">
+                <coordinates>18.5432981,54.523396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9877">
+            <name>Cluster Center</name>
+            <Point id="9876">
+                <coordinates>18.5451942,54.5218067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9879">
+            <name>Cluster Center</name>
+            <Point id="9878">
+                <coordinates>18.5341051,54.521303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9881">
+            <name>Cluster Center</name>
+            <Point id="9880">
+                <coordinates>18.5370495,54.5184155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9883">
+            <name>Cluster Center</name>
+            <Point id="9882">
+                <coordinates>18.5425364,54.5188942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9885">
+            <name>Cluster Center</name>
+            <Point id="9884">
+                <coordinates>18.5449445,54.5230081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9887">
+            <name>Cluster Center</name>
+            <Point id="9886">
+                <coordinates>18.5326717,54.5219367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9889">
+            <name>Cluster Center</name>
+            <Point id="9888">
+                <coordinates>18.537873,54.515741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9891">
+            <name>Cluster Center</name>
+            <Point id="9890">
+                <coordinates>18.5412556,54.516923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9893">
+            <name>Cluster Center</name>
+            <Point id="9892">
+                <coordinates>18.5282554,54.5195942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9895">
+            <name>Cluster Center</name>
+            <Point id="9894">
+                <coordinates>18.5327213,54.51552479999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9897">
+            <name>Cluster Center</name>
+            <Point id="9896">
+                <coordinates>18.540745,54.51459999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9899">
+            <name>Cluster Center</name>
+            <Point id="9898">
+                <coordinates>18.55004,54.52207300000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9901">
+            <name>Cluster Center</name>
+            <Point id="9900">
+                <coordinates>18.5316385,54.5133721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9903">
+            <name>Cluster Center</name>
+            <Point id="9902">
+                <coordinates>18.53914,54.512259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9905">
+            <name>Cluster Center</name>
+            <Point id="9904">
+                <coordinates>18.5426484,54.5250741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9907">
+            <name>Cluster Center</name>
+            <Point id="9906">
+                <coordinates>18.537621,54.5104663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9909">
+            <name>Cluster Center</name>
+            <Point id="9908">
+                <coordinates>18.646872,54.362525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9911">
+            <name>Cluster Center</name>
+            <Point id="9910">
+                <coordinates>18.6099966,54.3870568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9913">
+            <name>Cluster Center</name>
+            <Point id="9912">
+                <coordinates>18.6168,54.3412199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9915">
+            <name>Cluster Center</name>
+            <Point id="9914">
+                <coordinates>18.597637,54.3818446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9917">
+            <name>Cluster Center</name>
+            <Point id="9916">
+                <coordinates>18.830226,54.344158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9919">
+            <name>Cluster Center</name>
+            <Point id="9918">
+                <coordinates>18.7091977,54.3603311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9921">
+            <name>Cluster Center</name>
+            <Point id="9920">
+                <coordinates>19.0333966,54.33630729999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9923">
+            <name>Cluster Center</name>
+            <Point id="9922">
+                <coordinates>18.8270348,54.3438666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9925">
+            <name>Cluster Center</name>
+            <Point id="9924">
+                <coordinates>18.6851235,54.35742699999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9927">
+            <name>Cluster Center</name>
+            <Point id="9926">
+                <coordinates>18.6824662,54.3564918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9929">
+            <name>Cluster Center</name>
+            <Point id="9928">
+                <coordinates>18.6728362,54.2584017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9931">
+            <name>Cluster Center</name>
+            <Point id="9930">
+                <coordinates>18.6643357,54.3474673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9933">
+            <name>Cluster Center</name>
+            <Point id="9932">
+                <coordinates>18.660754,54.347812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9935">
+            <name>Cluster Center</name>
+            <Point id="9934">
+                <coordinates>18.661892,54.40109030000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9937">
+            <name>Cluster Center</name>
+            <Point id="9936">
+                <coordinates>18.6663004,54.3465449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9939">
+            <name>Cluster Center</name>
+            <Point id="9938">
+                <coordinates>18.6629269,54.354828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9941">
+            <name>Cluster Center</name>
+            <Point id="9940">
+                <coordinates>18.6583473,54.3473271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9943">
+            <name>Cluster Center</name>
+            <Point id="9942">
+                <coordinates>18.658236,54.34916800000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9945">
+            <name>Cluster Center</name>
+            <Point id="9944">
+                <coordinates>18.664117,54.264531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9947">
+            <name>Cluster Center</name>
+            <Point id="9946">
+                <coordinates>18.6552097,54.3411631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9949">
+            <name>Cluster Center</name>
+            <Point id="9948">
+                <coordinates>18.5781001,54.402012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9951">
+            <name>Cluster Center</name>
+            <Point id="9950">
+                <coordinates>18.6072381,54.3759521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9953">
+            <name>Cluster Center</name>
+            <Point id="9952">
+                <coordinates>18.57945,54.40607749999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9955">
+            <name>Cluster Center</name>
+            <Point id="9954">
+                <coordinates>18.616348,54.388358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9957">
+            <name>Cluster Center</name>
+            <Point id="9956">
+                <coordinates>18.6165525,54.3857784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9959">
+            <name>Cluster Center</name>
+            <Point id="9958">
+                <coordinates>18.6199133,54.39431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9961">
+            <name>Cluster Center</name>
+            <Point id="9960">
+                <coordinates>18.6053653,54.3774614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9963">
+            <name>Cluster Center</name>
+            <Point id="9962">
+                <coordinates>18.6059737,54.37810469999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9965">
+            <name>Cluster Center</name>
+            <Point id="9964">
+                <coordinates>18.6506725,54.3553289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9967">
+            <name>Cluster Center</name>
+            <Point id="9966">
+                <coordinates>18.662827,54.347246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9969">
+            <name>Cluster Center</name>
+            <Point id="9968">
+                <coordinates>18.6323999,54.3503982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9971">
+            <name>Cluster Center</name>
+            <Point id="9970">
+                <coordinates>18.5817323,54.4200686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9973">
+            <name>Cluster Center</name>
+            <Point id="9972">
+                <coordinates>18.5921737,54.3830992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9975">
+            <name>Cluster Center</name>
+            <Point id="9974">
+                <coordinates>18.5902802,54.4071164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9977">
+            <name>Cluster Center</name>
+            <Point id="9976">
+                <coordinates>18.5824729,54.3190531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9979">
+            <name>Cluster Center</name>
+            <Point id="9978">
+                <coordinates>18.5879726,54.3102493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9981">
+            <name>Cluster Center</name>
+            <Point id="9980">
+                <coordinates>18.591155,54.3604678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9983">
+            <name>Cluster Center</name>
+            <Point id="9982">
+                <coordinates>18.5971491,54.4163559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9985">
+            <name>Cluster Center</name>
+            <Point id="9984">
+                <coordinates>18.5488506,54.3256425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9987">
+            <name>Cluster Center</name>
+            <Point id="9986">
+                <coordinates>18.5934534,54.3984681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9989">
+            <name>Cluster Center</name>
+            <Point id="9988">
+                <coordinates>18.6131872,54.4068007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9991">
+            <name>Cluster Center</name>
+            <Point id="9990">
+                <coordinates>18.5731529,54.410358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9993">
+            <name>Cluster Center</name>
+            <Point id="9992">
+                <coordinates>18.6547509,54.3511958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9995">
+            <name>Cluster Center</name>
+            <Point id="9994">
+                <coordinates>18.5914103,54.4127091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9997">
+            <name>Cluster Center</name>
+            <Point id="9996">
+                <coordinates>18.496889,54.3533736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9999">
+            <name>Cluster Center</name>
+            <Point id="9998">
+                <coordinates>18.5866462,54.4122219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10001">
+            <name>Cluster Center</name>
+            <Point id="10000">
+                <coordinates>18.5839529,54.35946939999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10003">
+            <name>Cluster Center</name>
+            <Point id="10002">
+                <coordinates>18.5672875,54.4084965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10005">
+            <name>Cluster Center</name>
+            <Point id="10004">
+                <coordinates>18.5902035,54.38929779999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10007">
+            <name>Cluster Center</name>
+            <Point id="10006">
+                <coordinates>18.6009543,54.4041598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10009">
+            <name>Cluster Center</name>
+            <Point id="10008">
+                <coordinates>18.6023749,54.4120566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10011">
+            <name>Cluster Center</name>
+            <Point id="10010">
+                <coordinates>18.6127147,54.3904991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10013">
+            <name>Cluster Center</name>
+            <Point id="10012">
+                <coordinates>18.6084138,54.381783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10015">
+            <name>Cluster Center</name>
+            <Point id="10014">
+                <coordinates>18.6048334,54.3963915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10017">
+            <name>Cluster Center</name>
+            <Point id="10016">
+                <coordinates>18.6176492,54.3933005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10019">
+            <name>Cluster Center</name>
+            <Point id="10018">
+                <coordinates>18.6125888,54.3376318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10021">
+            <name>Cluster Center</name>
+            <Point id="10020">
+                <coordinates>18.5683732,54.3176735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10023">
+            <name>Cluster Center</name>
+            <Point id="10022">
+                <coordinates>18.6604007,54.399583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10025">
+            <name>Cluster Center</name>
+            <Point id="10024">
+                <coordinates>18.6443083,54.3939868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10027">
+            <name>Cluster Center</name>
+            <Point id="10026">
+                <coordinates>18.4020379,54.3934832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10029">
+            <name>Cluster Center</name>
+            <Point id="10028">
+                <coordinates>18.559945,54.4450422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10031">
+            <name>Cluster Center</name>
+            <Point id="10030">
+                <coordinates>18.7191344,54.3605471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10033">
+            <name>Cluster Center</name>
+            <Point id="10032">
+                <coordinates>18.7463405,54.3259366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10035">
+            <name>Cluster Center</name>
+            <Point id="10034">
+                <coordinates>18.7109586,54.36274299999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10037">
+            <name>Cluster Center</name>
+            <Point id="10036">
+                <coordinates>18.6693461,54.3994919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10039">
+            <name>Cluster Center</name>
+            <Point id="10038">
+                <coordinates>18.6598006,54.341217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10041">
+            <name>Cluster Center</name>
+            <Point id="10040">
+                <coordinates>18.6555792,54.26569259999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10043">
+            <name>Cluster Center</name>
+            <Point id="10042">
+                <coordinates>18.6461111,54.3547222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10045">
+            <name>Cluster Center</name>
+            <Point id="10044">
+                <coordinates>18.6481073,54.2577782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10047">
+            <name>Cluster Center</name>
+            <Point id="10046">
+                <coordinates>18.6383382,54.2611981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10049">
+            <name>Cluster Center</name>
+            <Point id="10048">
+                <coordinates>18.6319506,54.4021564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10051">
+            <name>Cluster Center</name>
+            <Point id="10050">
+                <coordinates>18.6260884,54.3380054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10053">
+            <name>Cluster Center</name>
+            <Point id="10052">
+                <coordinates>18.6312216,54.3213239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10055">
+            <name>Cluster Center</name>
+            <Point id="10054">
+                <coordinates>18.6254773,54.4048952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10057">
+            <name>Cluster Center</name>
+            <Point id="10056">
+                <coordinates>18.628715,54.2665154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10059">
+            <name>Cluster Center</name>
+            <Point id="10058">
+                <coordinates>18.4176559,54.4430305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10061">
+            <name>Cluster Center</name>
+            <Point id="10060">
+                <coordinates>18.52988,54.48945089999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10063">
+            <name>Cluster Center</name>
+            <Point id="10062">
+                <coordinates>18.4849821,54.4110261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10065">
+            <name>Cluster Center</name>
+            <Point id="10064">
+                <coordinates>18.5918335,54.3907438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10067">
+            <name>Cluster Center</name>
+            <Point id="10066">
+                <coordinates>18.670184,54.3472918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10069">
+            <name>Cluster Center</name>
+            <Point id="10068">
+                <coordinates>18.6332656,54.3775793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10071">
+            <name>Cluster Center</name>
+            <Point id="10070">
+                <coordinates>18.5242783,54.3757232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10073">
+            <name>Cluster Center</name>
+            <Point id="10072">
+                <coordinates>18.6136104,54.32603839999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10075">
+            <name>Cluster Center</name>
+            <Point id="10074">
+                <coordinates>18.5684576,54.4097147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10077">
+            <name>Cluster Center</name>
+            <Point id="10076">
+                <coordinates>18.6169261,54.3398457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10079">
+            <name>Cluster Center</name>
+            <Point id="10078">
+                <coordinates>18.6191222,54.3900295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10081">
+            <name>Cluster Center</name>
+            <Point id="10080">
+                <coordinates>18.6166061,54.3772745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10083">
+            <name>Cluster Center</name>
+            <Point id="10082">
+                <coordinates>18.5692188,54.31217849999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10085">
+            <name>Cluster Center</name>
+            <Point id="10084">
+                <coordinates>18.7172071,54.3636361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10087">
+            <name>Cluster Center</name>
+            <Point id="10086">
+                <coordinates>18.5976755,54.3842351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10089">
+            <name>Cluster Center</name>
+            <Point id="10088">
+                <coordinates>18.5884408,54.356509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10091">
+            <name>Cluster Center</name>
+            <Point id="10090">
+                <coordinates>18.6004351,54.3455466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10093">
+            <name>Cluster Center</name>
+            <Point id="10092">
+                <coordinates>18.66556,54.26417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10095">
+            <name>Cluster Center</name>
+            <Point id="10094">
+                <coordinates>18.5627157,54.4329489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10097">
+            <name>Cluster Center</name>
+            <Point id="10096">
+                <coordinates>18.6339282,54.403071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10099">
+            <name>Cluster Center</name>
+            <Point id="10098">
+                <coordinates>18.5968033,54.3355064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10101">
+            <name>Cluster Center</name>
+            <Point id="10100">
+                <coordinates>18.5530458,54.3228058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10103">
+            <name>Cluster Center</name>
+            <Point id="10102">
+                <coordinates>18.5852787,54.4023052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10105">
+            <name>Cluster Center</name>
+            <Point id="10104">
+                <coordinates>18.5414091,54.5160044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10107">
+            <name>Cluster Center</name>
+            <Point id="10106">
+                <coordinates>18.4962149,54.5321661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10109">
+            <name>Cluster Center</name>
+            <Point id="10108">
+                <coordinates>18.5108621,54.4973423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10111">
+            <name>Cluster Center</name>
+            <Point id="10110">
+                <coordinates>18.5240221,54.5490158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10113">
+            <name>Cluster Center</name>
+            <Point id="10112">
+                <coordinates>18.4645178,54.54475679999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10115">
+            <name>Cluster Center</name>
+            <Point id="10114">
+                <coordinates>18.5541742,54.4581876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10117">
+            <name>Cluster Center</name>
+            <Point id="10116">
+                <coordinates>18.4921709,54.46994489999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10119">
+            <name>Cluster Center</name>
+            <Point id="10118">
+                <coordinates>18.4256633,54.4905772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10121">
+            <name>Cluster Center</name>
+            <Point id="10120">
+                <coordinates>18.422353,54.5657464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10123">
+            <name>Cluster Center</name>
+            <Point id="10122">
+                <coordinates>18.4959605,54.5797429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10125">
+            <name>Cluster Center</name>
+            <Point id="10124">
+                <coordinates>18.4577972,54.4635182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10127">
+            <name>Cluster Center</name>
+            <Point id="10126">
+                <coordinates>18.4134108,54.4435207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10129">
+            <name>Cluster Center</name>
+            <Point id="10128">
+                <coordinates>18.5026807,54.56298109999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10131">
+            <name>Cluster Center</name>
+            <Point id="10130">
+                <coordinates>18.3832351,54.5741156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10133">
+            <name>Cluster Center</name>
+            <Point id="10132">
+                <coordinates>18.4772038,54.4245233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10135">
+            <name>Cluster Center</name>
+            <Point id="10134">
+                <coordinates>18.35546,54.59491999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10137">
+            <name>Cluster Center</name>
+            <Point id="10136">
+                <coordinates>18.6360468,54.3324377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10139">
+            <name>Cluster Center</name>
+            <Point id="10138">
+                <coordinates>18.7453932,54.32714499999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10141">
+            <name>Cluster Center</name>
+            <Point id="10140">
+                <coordinates>18.63309,54.24773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10143">
+            <name>Cluster Center</name>
+            <Point id="10142">
+                <coordinates>18.6112423,54.27282349999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10145">
+            <name>Cluster Center</name>
+            <Point id="10144">
+                <coordinates>18.6074996,54.3004413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10147">
+            <name>Cluster Center</name>
+            <Point id="10146">
+                <coordinates>18.5003383,54.35294589999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10149">
+            <name>Cluster Center</name>
+            <Point id="10148">
+                <coordinates>18.4037449,54.3936909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10151">
+            <name>Cluster Center</name>
+            <Point id="10150">
+                <coordinates>18.640369,54.3590983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10153">
+            <name>Cluster Center</name>
+            <Point id="10152">
+                <coordinates>18.5884121,54.4039316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10155">
+            <name>Cluster Center</name>
+            <Point id="10154">
+                <coordinates>18.613275,54.4059502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10157">
+            <name>Cluster Center</name>
+            <Point id="10156">
+                <coordinates>18.5025269,54.3694795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10159">
+            <name>Cluster Center</name>
+            <Point id="10158">
+                <coordinates>18.5793192,54.39472439999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10161">
+            <name>Cluster Center</name>
+            <Point id="10160">
+                <coordinates>18.561378,54.308752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10163">
+            <name>Cluster Center</name>
+            <Point id="10162">
+                <coordinates>18.6823791,54.3483818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10165">
+            <name>Cluster Center</name>
+            <Point id="10164">
+                <coordinates>18.664114,54.4025735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10167">
+            <name>Cluster Center</name>
+            <Point id="10166">
+                <coordinates>18.5839307,54.4024718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10169">
+            <name>Cluster Center</name>
+            <Point id="10168">
+                <coordinates>18.6078619,54.3264435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10171">
+            <name>Cluster Center</name>
+            <Point id="10170">
+                <coordinates>18.5997371,54.41400729999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10173">
+            <name>Cluster Center</name>
+            <Point id="10172">
+                <coordinates>18.6685023,54.34548299999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10175">
+            <name>Cluster Center</name>
+            <Point id="10174">
+                <coordinates>18.6285411,54.3377309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10177">
+            <name>Cluster Center</name>
+            <Point id="10176">
+                <coordinates>18.6218034,54.3930178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10179">
+            <name>Cluster Center</name>
+            <Point id="10178">
+                <coordinates>18.5355174,54.34570249999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10181">
+            <name>Cluster Center</name>
+            <Point id="10180">
+                <coordinates>18.589074,54.27727969999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10183">
+            <name>Cluster Center</name>
+            <Point id="10182">
+                <coordinates>18.5469061,54.34448640000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10185">
+            <name>Cluster Center</name>
+            <Point id="10184">
+                <coordinates>18.5787143,54.396562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10187">
+            <name>Cluster Center</name>
+            <Point id="10186">
+                <coordinates>18.6357907,54.3332264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10189">
+            <name>Cluster Center</name>
+            <Point id="10188">
+                <coordinates>18.6813959,54.3494598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10191">
+            <name>Cluster Center</name>
+            <Point id="10190">
+                <coordinates>18.533634,54.513461,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10193">
+            <name>Cluster Center</name>
+            <Point id="10192">
+                <coordinates>18.5099853,54.5323179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10195">
+            <name>Cluster Center</name>
+            <Point id="10194">
+                <coordinates>18.5389813,54.4966735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10197">
+            <name>Cluster Center</name>
+            <Point id="10196">
+                <coordinates>18.4947423,54.537727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10199">
+            <name>Cluster Center</name>
+            <Point id="10198">
+                <coordinates>18.5549178,54.5177497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10201">
+            <name>Cluster Center</name>
+            <Point id="10200">
+                <coordinates>18.5160616,54.5254261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10203">
+            <name>Cluster Center</name>
+            <Point id="10202">
+                <coordinates>18.4998293,54.5489043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10205">
+            <name>Cluster Center</name>
+            <Point id="10204">
+                <coordinates>18.5158468,54.4739836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10207">
+            <name>Cluster Center</name>
+            <Point id="10206">
+                <coordinates>18.4536158,54.5416153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10209">
+            <name>Cluster Center</name>
+            <Point id="10208">
+                <coordinates>18.4252003,54.5504425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10211">
+            <name>Cluster Center</name>
+            <Point id="10210">
+                <coordinates>18.5405681,54.4915968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10213">
+            <name>Cluster Center</name>
+            <Point id="10212">
+                <coordinates>18.5346956,54.4970317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10215">
+            <name>Cluster Center</name>
+            <Point id="10214">
+                <coordinates>18.5144198,54.5488674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10217">
+            <name>Cluster Center</name>
+            <Point id="10216">
+                <coordinates>18.5126196,54.5268498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10219">
+            <name>Cluster Center</name>
+            <Point id="10218">
+                <coordinates>18.5142347,54.496303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10221">
+            <name>Cluster Center</name>
+            <Point id="10220">
+                <coordinates>18.5064587,54.52894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10223">
+            <name>Cluster Center</name>
+            <Point id="10222">
+                <coordinates>18.5137368,54.5290526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10225">
+            <name>Cluster Center</name>
+            <Point id="10224">
+                <coordinates>18.4959766,54.5376991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10227">
+            <name>Cluster Center</name>
+            <Point id="10226">
+                <coordinates>18.5355031,54.492037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10229">
+            <name>Cluster Center</name>
+            <Point id="10228">
+                <coordinates>18.4289209,54.5501735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10231">
+            <name>Cluster Center</name>
+            <Point id="10230">
+                <coordinates>18.4829845,54.3529161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10233">
+            <name>Cluster Center</name>
+            <Point id="10232">
+                <coordinates>18.4769206,54.3808265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10235">
+            <name>Cluster Center</name>
+            <Point id="10234">
+                <coordinates>18.5946273,54.4093789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10237">
+            <name>Cluster Center</name>
+            <Point id="10236">
+                <coordinates>18.8701588,54.2749689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10239">
+            <name>Cluster Center</name>
+            <Point id="10238">
+                <coordinates>18.7914281,54.2916889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10241">
+            <name>Cluster Center</name>
+            <Point id="10240">
+                <coordinates>18.7448667,54.3290181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10243">
+            <name>Cluster Center</name>
+            <Point id="10242">
+                <coordinates>18.7198809,54.3445932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10245">
+            <name>Cluster Center</name>
+            <Point id="10244">
+                <coordinates>18.7990207,54.30376279999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10247">
+            <name>Cluster Center</name>
+            <Point id="10246">
+                <coordinates>18.7351207,54.3389609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10249">
+            <name>Cluster Center</name>
+            <Point id="10248">
+                <coordinates>18.9665792,54.3329163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10251">
+            <name>Cluster Center</name>
+            <Point id="10250">
+                <coordinates>18.7350937,54.3389698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10253">
+            <name>Cluster Center</name>
+            <Point id="10252">
+                <coordinates>18.7114222,54.3505394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10255">
+            <name>Cluster Center</name>
+            <Point id="10254">
+                <coordinates>18.9665429,54.3328984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10257">
+            <name>Cluster Center</name>
+            <Point id="10256">
+                <coordinates>18.7068827,54.3488272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10259">
+            <name>Cluster Center</name>
+            <Point id="10258">
+                <coordinates>18.6897648,54.36221829999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10261">
+            <name>Cluster Center</name>
+            <Point id="10260">
+                <coordinates>18.6937534,54.3428426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10263">
+            <name>Cluster Center</name>
+            <Point id="10262">
+                <coordinates>18.842514,54.2433393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10265">
+            <name>Cluster Center</name>
+            <Point id="10264">
+                <coordinates>18.6788177,54.3822962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10267">
+            <name>Cluster Center</name>
+            <Point id="10266">
+                <coordinates>18.3598531,54.3420993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10269">
+            <name>Cluster Center</name>
+            <Point id="10268">
+                <coordinates>18.564005,54.424494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10271">
+            <name>Cluster Center</name>
+            <Point id="10270">
+                <coordinates>18.5461174,54.3041765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10273">
+            <name>Cluster Center</name>
+            <Point id="10272">
+                <coordinates>18.5614634,54.42939819999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10275">
+            <name>Cluster Center</name>
+            <Point id="10274">
+                <coordinates>18.5210194,54.3758689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10277">
+            <name>Cluster Center</name>
+            <Point id="10276">
+                <coordinates>18.4888148,54.4324404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10279">
+            <name>Cluster Center</name>
+            <Point id="10278">
+                <coordinates>18.5793787,54.43699609999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10281">
+            <name>Cluster Center</name>
+            <Point id="10280">
+                <coordinates>18.5135128,54.3525633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10283">
+            <name>Cluster Center</name>
+            <Point id="10282">
+                <coordinates>18.5817336,54.402699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10285">
+            <name>Cluster Center</name>
+            <Point id="10284">
+                <coordinates>18.579951,54.4065611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10287">
+            <name>Cluster Center</name>
+            <Point id="10286">
+                <coordinates>18.6238994,54.4135208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10289">
+            <name>Cluster Center</name>
+            <Point id="10288">
+                <coordinates>18.6596641,54.3405528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10291">
+            <name>Cluster Center</name>
+            <Point id="10290">
+                <coordinates>18.6301658,54.411019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10293">
+            <name>Cluster Center</name>
+            <Point id="10292">
+                <coordinates>18.6574046,54.3485507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10295">
+            <name>Cluster Center</name>
+            <Point id="10294">
+                <coordinates>18.5863746,54.3333445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10297">
+            <name>Cluster Center</name>
+            <Point id="10296">
+                <coordinates>18.5985393,54.378556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10299">
+            <name>Cluster Center</name>
+            <Point id="10298">
+                <coordinates>18.5978326,54.4244009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10301">
+            <name>Cluster Center</name>
+            <Point id="10300">
+                <coordinates>18.5925919,54.389968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10303">
+            <name>Cluster Center</name>
+            <Point id="10302">
+                <coordinates>18.6603603,54.3561553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10305">
+            <name>Cluster Center</name>
+            <Point id="10304">
+                <coordinates>18.5810311,54.3945902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10307">
+            <name>Cluster Center</name>
+            <Point id="10306">
+                <coordinates>18.6503766,54.3501464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10309">
+            <name>Cluster Center</name>
+            <Point id="10308">
+                <coordinates>18.5897003,54.3648944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10311">
+            <name>Cluster Center</name>
+            <Point id="10310">
+                <coordinates>18.7294516,54.37358649999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10313">
+            <name>Cluster Center</name>
+            <Point id="10312">
+                <coordinates>18.6358301,54.2632255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10315">
+            <name>Cluster Center</name>
+            <Point id="10314">
+                <coordinates>18.6572575,54.3508023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10317">
+            <name>Cluster Center</name>
+            <Point id="10316">
+                <coordinates>18.5904474,54.3914784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10319">
+            <name>Cluster Center</name>
+            <Point id="10318">
+                <coordinates>18.5400447,54.5213962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10321">
+            <name>Cluster Center</name>
+            <Point id="10320">
+                <coordinates>18.5374979,54.52141409999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10323">
+            <name>Cluster Center</name>
+            <Point id="10322">
+                <coordinates>18.53808,54.521375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10325">
+            <name>Cluster Center</name>
+            <Point id="10324">
+                <coordinates>18.539732,54.521155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10327">
+            <name>Cluster Center</name>
+            <Point id="10326">
+                <coordinates>18.5369203,54.52107359999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10329">
+            <name>Cluster Center</name>
+            <Point id="10328">
+                <coordinates>18.543475,54.51892669999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10331">
+            <name>Cluster Center</name>
+            <Point id="10330">
+                <coordinates>18.537824,54.521368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10333">
+            <name>Cluster Center</name>
+            <Point id="10332">
+                <coordinates>18.5329847,54.5212035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10335">
+            <name>Cluster Center</name>
+            <Point id="10334">
+                <coordinates>18.535797,54.520545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10337">
+            <name>Cluster Center</name>
+            <Point id="10336">
+                <coordinates>18.5437503,54.5197505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10339">
+            <name>Cluster Center</name>
+            <Point id="10338">
+                <coordinates>18.5413351,54.5204283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10341">
+            <name>Cluster Center</name>
+            <Point id="10340">
+                <coordinates>18.5405673,54.5212021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10343">
+            <name>Cluster Center</name>
+            <Point id="10342">
+                <coordinates>18.537786,54.52014459999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10345">
+            <name>Cluster Center</name>
+            <Point id="10344">
+                <coordinates>18.5370067,54.52105230000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10347">
+            <name>Cluster Center</name>
+            <Point id="10346">
+                <coordinates>18.5413676,54.5215141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10349">
+            <name>Cluster Center</name>
+            <Point id="10348">
+                <coordinates>18.5430405,54.5198201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10351">
+            <name>Cluster Center</name>
+            <Point id="10350">
+                <coordinates>18.538398,54.519071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10353">
+            <name>Cluster Center</name>
+            <Point id="10352">
+                <coordinates>18.5412383,54.5169835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10355">
+            <name>Cluster Center</name>
+            <Point id="10354">
+                <coordinates>18.5432429,54.5167243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10357">
+            <name>Cluster Center</name>
+            <Point id="10356">
+                <coordinates>18.5430646,54.5199226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10359">
+            <name>Cluster Center</name>
+            <Point id="10358">
+                <coordinates>18.63798,54.260519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10361">
+            <name>Cluster Center</name>
+            <Point id="10360">
+                <coordinates>18.5898705,54.380719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10363">
+            <name>Cluster Center</name>
+            <Point id="10362">
+                <coordinates>18.6332113,54.2558407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10365">
+            <name>Cluster Center</name>
+            <Point id="10364">
+                <coordinates>18.660166,54.3545275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10367">
+            <name>Cluster Center</name>
+            <Point id="10366">
+                <coordinates>18.62908,54.2685052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10369">
+            <name>Cluster Center</name>
+            <Point id="10368">
+                <coordinates>18.6016432,54.42095500000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10371">
+            <name>Cluster Center</name>
+            <Point id="10370">
+                <coordinates>18.6382199,54.40793470000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10373">
+            <name>Cluster Center</name>
+            <Point id="10372">
+                <coordinates>18.5007389,54.31917079999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10375">
+            <name>Cluster Center</name>
+            <Point id="10374">
+                <coordinates>18.6072026,54.3792489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10377">
+            <name>Cluster Center</name>
+            <Point id="10376">
+                <coordinates>18.6297446,54.4110988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10379">
+            <name>Cluster Center</name>
+            <Point id="10378">
+                <coordinates>18.4642883,54.3869321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10381">
+            <name>Cluster Center</name>
+            <Point id="10380">
+                <coordinates>18.4665977,54.4694738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10383">
+            <name>Cluster Center</name>
+            <Point id="10382">
+                <coordinates>18.5644169,54.481267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10385">
+            <name>Cluster Center</name>
+            <Point id="10384">
+                <coordinates>18.6473256,54.3579275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10387">
+            <name>Cluster Center</name>
+            <Point id="10386">
+                <coordinates>18.7160055,54.36097050000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10389">
+            <name>Cluster Center</name>
+            <Point id="10388">
+                <coordinates>18.8314633,54.3437958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10391">
+            <name>Cluster Center</name>
+            <Point id="10390">
+                <coordinates>18.8312997,54.3463127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10393">
+            <name>Cluster Center</name>
+            <Point id="10392">
+                <coordinates>18.7900759,54.35141369999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10395">
+            <name>Cluster Center</name>
+            <Point id="10394">
+                <coordinates>18.8235022,54.3374707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10397">
+            <name>Cluster Center</name>
+            <Point id="10396">
+                <coordinates>18.8288578,54.345212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10399">
+            <name>Cluster Center</name>
+            <Point id="10398">
+                <coordinates>18.8009069,54.34844829999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10401">
+            <name>Cluster Center</name>
+            <Point id="10400">
+                <coordinates>18.8235022,54.3374707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10403">
+            <name>Cluster Center</name>
+            <Point id="10402">
+                <coordinates>18.9094387,54.3379552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10405">
+            <name>Cluster Center</name>
+            <Point id="10404">
+                <coordinates>18.8334693,54.3516673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10407">
+            <name>Cluster Center</name>
+            <Point id="10406">
+                <coordinates>18.827689,54.343908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10409">
+            <name>Cluster Center</name>
+            <Point id="10408">
+                <coordinates>18.8750826,54.3458987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10411">
+            <name>Cluster Center</name>
+            <Point id="10410">
+                <coordinates>18.827347,54.3442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10413">
+            <name>Cluster Center</name>
+            <Point id="10412">
+                <coordinates>18.933919,54.3348406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10415">
+            <name>Cluster Center</name>
+            <Point id="10414">
+                <coordinates>18.8357389,54.3471334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10417">
+            <name>Cluster Center</name>
+            <Point id="10416">
+                <coordinates>18.8287104,54.3452004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10419">
+            <name>Cluster Center</name>
+            <Point id="10418">
+                <coordinates>18.834934,54.3450496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10421">
+            <name>Cluster Center</name>
+            <Point id="10420">
+                <coordinates>18.8284337,54.3443961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10423">
+            <name>Cluster Center</name>
+            <Point id="10422">
+                <coordinates>18.8284343,54.3443972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10425">
+            <name>Cluster Center</name>
+            <Point id="10424">
+                <coordinates>18.4187984,54.4439217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10427">
+            <name>Cluster Center</name>
+            <Point id="10426">
+                <coordinates>18.3615191,54.342093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10429">
+            <name>Cluster Center</name>
+            <Point id="10428">
+                <coordinates>18.3734625,54.47542259999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10431">
+            <name>Cluster Center</name>
+            <Point id="10430">
+                <coordinates>18.5623353,54.4415069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10433">
+            <name>Cluster Center</name>
+            <Point id="10432">
+                <coordinates>18.4857005,54.3795752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10435">
+            <name>Cluster Center</name>
+            <Point id="10434">
+                <coordinates>18.5591545,54.4089037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10437">
+            <name>Cluster Center</name>
+            <Point id="10436">
+                <coordinates>18.6447219,54.3455446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10439">
+            <name>Cluster Center</name>
+            <Point id="10438">
+                <coordinates>18.5288015,54.3551784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10441">
+            <name>Cluster Center</name>
+            <Point id="10440">
+                <coordinates>18.6444193,54.3476638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10443">
+            <name>Cluster Center</name>
+            <Point id="10442">
+                <coordinates>18.578441,54.4019421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10445">
+            <name>Cluster Center</name>
+            <Point id="10444">
+                <coordinates>18.6435559,54.3479616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10447">
+            <name>Cluster Center</name>
+            <Point id="10446">
+                <coordinates>18.5765929,54.40079369999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10449">
+            <name>Cluster Center</name>
+            <Point id="10448">
+                <coordinates>18.5700644,54.4211201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10451">
+            <name>Cluster Center</name>
+            <Point id="10450">
+                <coordinates>18.6268433,54.3743874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10453">
+            <name>Cluster Center</name>
+            <Point id="10452">
+                <coordinates>18.6426968,54.364576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10455">
+            <name>Cluster Center</name>
+            <Point id="10454">
+                <coordinates>18.6416852,54.36471539999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10457">
+            <name>Cluster Center</name>
+            <Point id="10456">
+                <coordinates>18.6727754,54.4033591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10459">
+            <name>Cluster Center</name>
+            <Point id="10458">
+                <coordinates>18.6037581,54.3827779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10461">
+            <name>Cluster Center</name>
+            <Point id="10460">
+                <coordinates>18.6432412,54.3642091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10463">
+            <name>Cluster Center</name>
+            <Point id="10462">
+                <coordinates>18.6266029,54.3753629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10465">
+            <name>Cluster Center</name>
+            <Point id="10464">
+                <coordinates>18.5703336,54.4212603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10467">
+            <name>Cluster Center</name>
+            <Point id="10466">
+                <coordinates>18.6440719,54.3475492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10469">
+            <name>Cluster Center</name>
+            <Point id="10468">
+                <coordinates>18.5943435,54.3892967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10471">
+            <name>Cluster Center</name>
+            <Point id="10470">
+                <coordinates>18.6261885,54.3756065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10473">
+            <name>Cluster Center</name>
+            <Point id="10472">
+                <coordinates>18.6265702,54.3751286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10475">
+            <name>Cluster Center</name>
+            <Point id="10474">
+                <coordinates>18.6550507,54.404716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10477">
+            <name>Cluster Center</name>
+            <Point id="10476">
+                <coordinates>18.5382949,54.4916283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10479">
+            <name>Cluster Center</name>
+            <Point id="10478">
+                <coordinates>18.4783157,54.5413971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10481">
+            <name>Cluster Center</name>
+            <Point id="10480">
+                <coordinates>18.5535028,54.4579609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10483">
+            <name>Cluster Center</name>
+            <Point id="10482">
+                <coordinates>18.531803,54.52053069999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10485">
+            <name>Cluster Center</name>
+            <Point id="10484">
+                <coordinates>18.4641218,54.5455269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10487">
+            <name>Cluster Center</name>
+            <Point id="10486">
+                <coordinates>18.5166686,54.5248319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10489">
+            <name>Cluster Center</name>
+            <Point id="10488">
+                <coordinates>18.5362156,54.5083727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10491">
+            <name>Cluster Center</name>
+            <Point id="10490">
+                <coordinates>18.5365607,54.5076019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10493">
+            <name>Cluster Center</name>
+            <Point id="10492">
+                <coordinates>18.53702,54.49117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10495">
+            <name>Cluster Center</name>
+            <Point id="10494">
+                <coordinates>18.5355894,54.5080388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10497">
+            <name>Cluster Center</name>
+            <Point id="10496">
+                <coordinates>18.5367732,54.4917564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10499">
+            <name>Cluster Center</name>
+            <Point id="10498">
+                <coordinates>18.5528872,54.47597460000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10501">
+            <name>Cluster Center</name>
+            <Point id="10500">
+                <coordinates>18.4939824,54.5342429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10503">
+            <name>Cluster Center</name>
+            <Point id="10502">
+                <coordinates>18.47772,54.54045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10505">
+            <name>Cluster Center</name>
+            <Point id="10504">
+                <coordinates>18.53749,54.49118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10507">
+            <name>Cluster Center</name>
+            <Point id="10506">
+                <coordinates>18.4237366,54.5535777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10509">
+            <name>Cluster Center</name>
+            <Point id="10508">
+                <coordinates>18.4931801,54.53391999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10511">
+            <name>Cluster Center</name>
+            <Point id="10510">
+                <coordinates>18.5531122,54.4575284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10513">
+            <name>Cluster Center</name>
+            <Point id="10512">
+                <coordinates>18.5547145,54.45940170000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10515">
+            <name>Cluster Center</name>
+            <Point id="10514">
+                <coordinates>18.5182046,54.5249448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10517">
+            <name>Cluster Center</name>
+            <Point id="10516">
+                <coordinates>18.6402075,54.3941017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10519">
+            <name>Cluster Center</name>
+            <Point id="10518">
+                <coordinates>18.6439515,54.34777159999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10521">
+            <name>Cluster Center</name>
+            <Point id="10520">
+                <coordinates>18.5782387,54.4017133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10523">
+            <name>Cluster Center</name>
+            <Point id="10522">
+                <coordinates>18.5719459,54.4100921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10525">
+            <name>Cluster Center</name>
+            <Point id="10524">
+                <coordinates>18.5944502,54.38957749999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10527">
+            <name>Cluster Center</name>
+            <Point id="10526">
+                <coordinates>18.6301825,54.3852431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10529">
+            <name>Cluster Center</name>
+            <Point id="10528">
+                <coordinates>18.5546187,54.45838269999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10531">
+            <name>Cluster Center</name>
+            <Point id="10530">
+                <coordinates>18.6552898,54.4047455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10533">
+            <name>Cluster Center</name>
+            <Point id="10532">
+                <coordinates>18.6263542,54.375403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10535">
+            <name>Cluster Center</name>
+            <Point id="10534">
+                <coordinates>18.56236,54.43996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10537">
+            <name>Cluster Center</name>
+            <Point id="10536">
+                <coordinates>18.5628474,54.4408865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10539">
+            <name>Cluster Center</name>
+            <Point id="10538">
+                <coordinates>18.5500301,54.3535856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10541">
+            <name>Cluster Center</name>
+            <Point id="10540">
+                <coordinates>18.6346866,54.3243158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10543">
+            <name>Cluster Center</name>
+            <Point id="10542">
+                <coordinates>18.6445955,54.3461015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10545">
+            <name>Cluster Center</name>
+            <Point id="10544">
+                <coordinates>18.60508,54.38195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10547">
+            <name>Cluster Center</name>
+            <Point id="10546">
+                <coordinates>18.6443322,54.3565908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10549">
+            <name>Cluster Center</name>
+            <Point id="10548">
+                <coordinates>18.6421799,54.3488537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10551">
+            <name>Cluster Center</name>
+            <Point id="10550">
+                <coordinates>18.6422015,54.35145920000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10553">
+            <name>Cluster Center</name>
+            <Point id="10552">
+                <coordinates>18.6577374,54.3519182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10555">
+            <name>Cluster Center</name>
+            <Point id="10554">
+                <coordinates>18.6215113,54.3739412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10557">
+            <name>Cluster Center</name>
+            <Point id="10556">
+                <coordinates>18.5659679,54.43247539999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10559">
+            <name>Cluster Center</name>
+            <Point id="10558">
+                <coordinates>18.635384,54.3022718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10561">
+            <name>Cluster Center</name>
+            <Point id="10560">
+                <coordinates>18.591316,54.3899056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10563">
+            <name>Cluster Center</name>
+            <Point id="10562">
+                <coordinates>18.5782212,54.3912972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10565">
+            <name>Cluster Center</name>
+            <Point id="10564">
+                <coordinates>18.57187,54.40984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10567">
+            <name>Cluster Center</name>
+            <Point id="10566">
+                <coordinates>18.6268433,54.3743874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10569">
+            <name>Cluster Center</name>
+            <Point id="10568">
+                <coordinates>18.565351,54.430836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10571">
+            <name>Cluster Center</name>
+            <Point id="10570">
+                <coordinates>18.5717668,54.3775986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10573">
+            <name>Cluster Center</name>
+            <Point id="10572">
+                <coordinates>18.5765929,54.40079369999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10575">
+            <name>Cluster Center</name>
+            <Point id="10574">
+                <coordinates>18.5297935,54.5213006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10577">
+            <name>Cluster Center</name>
+            <Point id="10576">
+                <coordinates>18.4636013,54.545692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10579">
+            <name>Cluster Center</name>
+            <Point id="10578">
+                <coordinates>18.5487285,54.4770358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10581">
+            <name>Cluster Center</name>
+            <Point id="10580">
+                <coordinates>18.3535168,54.5950864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10583">
+            <name>Cluster Center</name>
+            <Point id="10582">
+                <coordinates>18.4781377,54.5413185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10585">
+            <name>Cluster Center</name>
+            <Point id="10584">
+                <coordinates>18.5318167,54.5205257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10587">
+            <name>Cluster Center</name>
+            <Point id="10586">
+                <coordinates>18.4954236,54.53453889999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10589">
+            <name>Cluster Center</name>
+            <Point id="10588">
+                <coordinates>18.3869405,54.5692726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10591">
+            <name>Cluster Center</name>
+            <Point id="10590">
+                <coordinates>18.6463231,54.2585221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10593">
+            <name>Cluster Center</name>
+            <Point id="10592">
+                <coordinates>18.8011909,54.6109963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10595">
+            <name>Cluster Center</name>
+            <Point id="10594">
+                <coordinates>18.5086216,54.4693846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10597">
+            <name>Cluster Center</name>
+            <Point id="10596">
+                <coordinates>18.533471,54.49648750000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10599">
+            <name>Cluster Center</name>
+            <Point id="10598">
+                <coordinates>18.38641,54.5687586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10601">
+            <name>Cluster Center</name>
+            <Point id="10600">
+                <coordinates>18.4161094,54.6741628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10603">
+            <name>Cluster Center</name>
+            <Point id="10602">
+                <coordinates>18.481399,54.5410643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10605">
+            <name>Cluster Center</name>
+            <Point id="10604">
+                <coordinates>18.5355708,54.5079881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10607">
+            <name>Cluster Center</name>
+            <Point id="10606">
+                <coordinates>18.4057822,54.55892129999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10609">
+            <name>Cluster Center</name>
+            <Point id="10608">
+                <coordinates>18.4210884,54.38839669999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10611">
+            <name>Cluster Center</name>
+            <Point id="10610">
+                <coordinates>18.6475,54.2343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10613">
+            <name>Cluster Center</name>
+            <Point id="10612">
+                <coordinates>18.4657401,54.38301149999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10615">
+            <name>Cluster Center</name>
+            <Point id="10614">
+                <coordinates>18.4463119,54.3874083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10617">
+            <name>Cluster Center</name>
+            <Point id="10616">
+                <coordinates>18.4009017,54.3664764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10619">
+            <name>Cluster Center</name>
+            <Point id="10618">
+                <coordinates>18.7022398,54.1739648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10621">
+            <name>Cluster Center</name>
+            <Point id="10620">
+                <coordinates>18.6820153,54.185587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10623">
+            <name>Cluster Center</name>
+            <Point id="10622">
+                <coordinates>18.4520219,54.4210259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10625">
+            <name>Cluster Center</name>
+            <Point id="10624">
+                <coordinates>18.6615082,54.21202899999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10627">
+            <name>Cluster Center</name>
+            <Point id="10626">
+                <coordinates>19.4164461,54.1511111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10629">
+            <name>Cluster Center</name>
+            <Point id="10628">
+                <coordinates>18.362771,54.3444485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10631">
+            <name>Cluster Center</name>
+            <Point id="10630">
+                <coordinates>18.3733062,54.3487127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="10633">
+            <name>Cluster Center</name>
+            <Point id="10632">
+                <coordinates>18.3333399,54.3330321,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
