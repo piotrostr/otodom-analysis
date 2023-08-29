@@ -1,6 +1,7 @@
 import os
 import pickle
 import googlemaps
+import hashlib
 
 from itertools import chain
 from typing import Any
@@ -15,6 +16,9 @@ Cache = dict[str, GeocodeResponse]
 Ammenity = dict[str, Any]  # place_id: { name, coords, address, rating, ... }
 AmmenitiesCache = dict[str, Ammenity]
 
+# the str is a hash of tuple of coords (origin, dest)
+DistanceCache = dict[str, float]
+
 
 class HowCloseIsItService:
 
@@ -27,7 +31,12 @@ class HowCloseIsItService:
     def __init__(self):
         self._cache = self._load_cache()
         self._ammenities_cache: AmmenitiesCache = self._load_ammenities_cache()
+        self._distance_cache: DistanceCache = self._load_distance_cache()
         self.gmaps = googlemaps.Client(key=self.GOOGLE_MAPS_API_KEY)
+
+    @staticmethod
+    def _hash(obj: Any) -> str:
+        return hashlib.sha256(str(obj).encode()).hexdigest()
 
     def _load_cache(self) -> Cache:
         if os.path.exists("cache.pkl"):
@@ -48,6 +57,27 @@ class HowCloseIsItService:
         else:
             return {}
 
+    def _load_distance_cache(self) -> dict:
+        if os.path.exists("distance_cache.pkl"):
+            with open("distance_cache.pkl", "rb") as f:
+                distance_cache = pickle.load(f)
+                print(
+                    f"Loaded Distance cache of length: {len(distance_cache)}")
+                return distance_cache
+        else:
+            return {}
+
+    def _write_to_distance_cache(self, origin: list[float], dest: list[float], meters: float):
+        self._distance_cache[self._hash((origin, dest,))] = meters
+        with open("distance_cache.pkl", "wb+") as f:
+            pickle.dump(self._distance_cache, f)
+
+    def _get_from_distance_cache(self, origin: list[float], dest: list[float]) -> float:
+        return self._distance_cache[self._hash((origin, dest,))]
+
+    def _is_in_distance_cache(self, origin: list[float], dest: list[float]) -> bool:
+        return self._hash((origin, dest,)) in self._distance_cache
+
     def _is_cached(self, key: str) -> bool:
         return key in self._cache if self._cache is not None else False
 
@@ -59,7 +89,13 @@ class HowCloseIsItService:
         with open("cache.pkl", "wb+") as f:
             pickle.dump(self._cache, f)
 
-    def get_all_of_ammenity(self, ammenity: str = "zabka", dry_run=False, use_cache=False) -> Ammenity:
+    def get_all_of_ammenity(
+        self,
+        location: list[float],
+        ammenity: str = "zabka",
+        dry_run=False,
+        use_cache=False,
+    ) -> Ammenity:
         # the coordinates might be useful so that you don't repeat if the coordinates have been used
         # just read-in to go easy on the free-tier
         if ammenity not in self._ammenities_cache:
@@ -69,7 +105,7 @@ class HowCloseIsItService:
             return self._ammenities_cache[ammenity]
 
         responses = []
-        res = self._make_places_request(ammenity)
+        res = self._make_places_request(location=location, ammenity=ammenity)
         responses.append(res)
         used_tokens = set()
         i = 0
@@ -78,7 +114,10 @@ class HowCloseIsItService:
                 used_tokens.add(res["next_page_token"])
 
                 res = self._make_places_request(
-                    ammenity, res["next_page_token"])
+                    ammenity=ammenity,
+                    page_token=res["next_page_token"],
+                    location=location,
+                )
                 responses.append(res)
 
                 i += 1
@@ -114,10 +153,15 @@ class HowCloseIsItService:
 
         return self._ammenities_cache[ammenity]
 
-    def _make_places_request(self, ammenity: str = "", page_token: str = ""):
-        res = self.gmaps.places_nearby(  # type: ignore
-            keyword=ammenity,
-            location=self.city_center(),
+    def _make_places_request(
+        self,
+        location: list[float],
+        ammenity: str = "",
+        page_token: str = "",
+    ):
+        res = self.gmaps.places(  # type: ignore
+            query=ammenity,
+            location=location,
             radius=10_000,
             page_token=page_token,
         )
@@ -151,7 +195,7 @@ class HowCloseIsItService:
                     result["geometry"]["location"]["lat"],
                     result["geometry"]["location"]["lng"],
                 ],
-                "address": result["vicinity"],
+                "address": result["formatted_address"],
                 "rating": result["rating"],
                 "types": result["types"],
             }
@@ -177,17 +221,24 @@ class HowCloseIsItService:
         mode: str = "walking",
     ) -> float:
         """
-        :param mode: valid values are “driving”, “walking”, “transit” or
-        “bicycling”.
+        :param mode: 
+        valid values are “driving”, “walking”, “transit” or “bicycling” this
+        param is not currently used; only returning distance as of now
+
         :return: distance in meters
         """
+        if self._is_in_distance_cache(origin, dest):
+            return self._get_from_distance_cache(origin, dest)
         res = self.gmaps.distance_matrix(  # type: ignore
             origins=origin,
             destinations=dest,
             mode=mode,
         )
+        print("sent distance req for ", origin, dest)
         assert res["status"] == "OK", res
-        return res["rows"][0]["elements"][0]["distance"]["value"]
+        meters = res["rows"][0]["elements"][0]["distance"]["value"]
+        self._write_to_distance_cache(origin, dest, meters)
+        return meters
 
     def response_to_coords(self, response: GeocodeResponse) -> Coords:
         return [
